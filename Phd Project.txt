@@ -1,0 +1,769 @@
+﻿Aanes, H, Winata, C, Moen, LF, Østrup, O, Mathavan, S, Collas, P, Rognes, T & Aleström, P 2014, 'Normalization of RNA-Sequencing Data from Samples with Varying mRNA Levels', PLOS ONE, vol. 9, no. 2, p. e89158.
+
+Abrams, ZB, Johnson, TS, Huang, K, Payne, PRO & Coombes, K 2019, 'A protocol to evaluate RNA sequencing normalization methods', BMC Bioinformatics, vol. 20, no. 24, p. 679.
+
+Abrams, ZB, Johnson, TS, Huang, K, Payne, PRO & Coombes, K 2019, 'A protocol to evaluate RNA sequencing normalization methods', BMC Bioinformatics, vol. 20, no. 24, p. 679.
+
+Abrams, ZB, Johnson, TS, Huang, K, Payne, PRO & Coombes, K 2019, 'A protocol to evaluate RNA sequencing normalization methods', BMC Bioinformatics, vol. 20, no. 24, p. 679.
+
+Adzic, M, Djordjevic, J, Mitic, M, Brkic, Z, Lukic, I & Radojcic, M 2015, 'The contribution of hypothalamic neuroendocrine, neuroplastic and neuroinflammatory processes to lipopolysaccharide-induced depressive-like behaviour in female and male rats: Involvement of glucocorticoid receptor and C/EBP-β', Behavioural Brain Research, vol. 291, pp. 130-139.
+
+Aird, D, Ross, MG, Chen, W-S, Danielsson, M, Fennell, T, Russ, C, Jaffe, DB, Nusbaum, C & Gnirke, A 2011, 'Analyzing and minimizing PCR amplification bias in Illumina sequencing libraries', Genome Biology, vol. 12, no. 2, pp. 1-14.
+
+Ajami, B, Bennett, JL, Krieger, C, Tetzlaff, W & Rossi, FMV 2007, 'Local self-renewal can sustain CNS microglia maintenance and function throughout adult life', Nature Neuroscience, vol. 10, no. 12, pp. 1538-1543.
+
+Ajami, B, Bennett, JL, Krieger, C, Tetzlaff, W & Rossi, FMV 2007, 'Local self-renewal can sustain CNS microglia maintenance and function throughout adult life', Nature Neuroscience, vol. 10, no. 12, pp. 1538-1543.
+
+Anders, S & European, WH 'BioC 2012 : Differential expression of RNA-Seq data at the gene level', 
+
+Anders, S & Huber, W 2010, 'Differential expression analysis for sequence count data', Genome Biology, vol. 11, no. 10, p. R106.
+
+Anders, S, Pyl, PT & Huber, W 2014, 'HTSeq—a Python framework to work with high-throughput sequencing data', Bioinformatics, vol. 31, no. 2, pp. 166-169.
+
+Anders, S, Pyl, PT & Huber, W 2014, 'HTSeq—a Python framework to work with high-throughput sequencing data', Bioinformatics, vol. 31, no. 2, pp. 166-169.
+
+Anders, S, Pyl, PT & Huber, W 2014, 'HTSeq—a Python framework to work with high-throughput sequencing data', Bioinformatics, vol. 31, no. 2, pp. 166-169.
+
+Andescavage, NN, du Plessis, A, McCarter, R, Serag, A, Evangelou, I, Vezina, G, Robertson, R & Limperopoulos, C 2016, 'Complex Trajectories of Brain Development in the Healthy Human Fetus', Cerebral Cortex, vol. 27, no. 11, pp. 5274-5283.
+
+Andrews, S   2023, A quality control tool for high throughput sequence data., viewed  19 May 2023, <http://www.bioinformatics.babraham.ac.uk/projects/fastqc/>.
+
+Angelier, F & Wingfield, JC 2013, 'Importance of the glucocorticoid stress response in a changing world: Theory, hypotheses and perspectives', General and Comparative Endocrinology, vol. 190, pp. 118-128.
+
+Anjum, A, Jaggi, S, Varghese, E, Lall, S, Bhowmik, A & Rai, A 2016, 'Identification of Differentially Expressed Genes in RNA-seq Data of Arabidopsis thaliana: A Compound Distribution Approach', Journal of Computational Biology, vol. 23, no. 4, pp. 239-247.
+
+Ankeny, RA, Whittaker, AL, Ryan, M, Boer, J, Plebanski, M, Tuke, J & Spencer, SJ 2023, 'The power of effective study design in animal experimentation: Exploring the statistical and ethical implications of asking multiple questions of a data set', Brain, Behavior, and Immunity, vol. 112, pp. 163-172.
+
+Ansari, FA & Mahmood, R 2015, 'Sodium Nitrate Induces Reactive Oxygen Species That Lower the Antioxidant Power, Damage the Membrane, and Alter Pathways of Glucose Metabolism in Human Erythrocytes', Journal of Agricultural and Food Chemistry, vol. 63, no. 48, pp. 10372-10379.
+
+Ashburner, M, Ball, CA, Blake, JA, Botstein, D, Butler, H, Cherry, JM, Davis, AP, Dolinski, K, Dwight, SS, Eppig, JT, Harris, MA, Hill, DP, Issel-Tarver, L, Kasarskis, A, Lewis, S, Matese, JC, Richardson, JE, Ringwald, M, Rubin, GM & Sherlock, G 2000, 'Gene Ontology: tool for the unification of biology', Nature Genetics, vol. 25, no. 1, pp. 25-29.
+
+Bacher, R, Chu, L-F, Leng, N, Gasch, AP, Thomson, JA, Stewart, RM, Newton, M & Kendziorski, C 2017, 'SCnorm: robust normalization of single-cell RNA-seq data', Nature Methods, vol. 14, no. 6, pp. 584-586.
+
+Bairoch, A, Boeckmann, B, Ferro, S & Gasteiger, E 2004, 'Swiss-Prot: Juggling between evolution and stability', Briefings in Bioinformatics, vol. 5, no. 1, pp. 39-55.
+
+Barros, FC, Papageorghiou, AT, Victora, CG, Noble, JA, Pang, R, Iams, J, Cheikh Ismail, L, Goldenberg, RL, Lambert, A, Kramer, MS, Carvalho, M, Conde-Agudelo, A, Jaffer, YA, Bertino, E, Gravett, MG, Altman, DG, Ohuma, EO, Purwar, M, Frederick, IO, Bhutta, ZA, Kennedy, SH, Villar, J, Fetal, ftI & Century, NGCfts 2015, 'The Distribution of Clinical Phenotypes of Preterm Birth Syndrome: Implications for Prevention', JAMA Pediatrics, vol. 169, no. 3, pp. 220-229.
+
+Barros, FC, Papageorghiou, AT, Victora, CG, Noble, JA, Pang, R, Iams, J, Cheikh Ismail, L, Goldenberg, RL, Lambert, A, Kramer, MS, Carvalho, M, Conde-Agudelo, A, Jaffer, YA, Bertino, E, Gravett, MG, Altman, DG, Ohuma, EO, Purwar, M, Frederick, IO, Bhutta, ZA, Kennedy, SH, Villar, J, Fetal, ftI & Century, NGCfts 2015, 'The Distribution of Clinical Phenotypes of Preterm Birth Syndrome: Implications for Prevention', JAMA Pediatrics, vol. 169, no. 3, pp. 220-229.
+
+Barros, FC, Papageorghiou, AT, Victora, CG, Noble, JA, Pang, R, Iams, J, Cheikh Ismail, L, Goldenberg, RL, Lambert, A, Kramer, MS, Carvalho, M, Conde-Agudelo, A, Jaffer, YA, Bertino, E, Gravett, MG, Altman, DG, Ohuma, EO, Purwar, M, Frederick, IO, Bhutta, ZA, Kennedy, SH, Villar, J, Fetal, ftI & Century, NGCfts 2015, 'The Distribution of Clinical Phenotypes of Preterm Birth Syndrome: Implications for Prevention', JAMA Pediatrics, vol. 169, no. 3, pp. 220-229.
+
+Belinda, P, Stanley, L, Ian, JM, Warren, SA & Gordon, KS 2016, 'Robust hyperparameter estimation protects against hypervariable genes and improves power to detect differential expression', The Annals of Applied Statistics, vol. 10, no. 2, pp. 946-963.
+
+Benjamini, Y & Hochberg, Y 1995, 'Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing', Journal of the Royal Statistical Society: Series B (Methodological), vol. 57, no. 1, pp. 289-300.
+
+Benjamini, Y & Hochberg, Y 1995, 'Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing', Journal of the Royal Statistical Society: Series B (Methodological), vol. 57, no. 1, pp. 289-300.
+
+Benjamini, Y & Hochberg, Y 1995, 'Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing', Journal of the Royal Statistical Society: Series B (Methodological), vol. 57, no. 1, pp. 289-300.
+
+Benjamini, Y & Speed, TP 2012, 'Summarizing and correcting the GC content bias in high-throughput sequencing', Nucleic acids research, vol. 40, no. 10, pp. e72-e72.
+
+Bentley, DR, Balasubramanian, S, Swerdlow, HP, Smith, GP, Milton, J, Brown, CG, Hall, KP, Evers, DJ, Barnes, CL, Bignell, HR, Boutell, JM, Bryant, J, Carter, RJ, Keira Cheetham, R, Cox, AJ, Ellis, DJ, Flatbush, MR, Gormley, NA, Humphray, SJ, Irving, LJ, Karbelashvili, MS, Kirk, SM, Li, H, Liu, X, Maisinger, KS, Murray, LJ, Obradovic, B, Ost, T, Parkinson, ML, Pratt, MR, Rasolonjatovo, IMJ, Reed, MT, Rigatti, R, Rodighiero, C, Ross, MT, Sabot, A, Sankar, SV, Scally, A, Schroth, GP, Smith, ME, Smith, VP, Spiridou, A, Torrance, PE, Tzonev, SS, Vermaas, EH, Walter, K, Wu, X, Zhang, L, Alam, MD, Anastasi, C, Aniebo, IC, Bailey, DMD, Bancarz, IR, Banerjee, S, Barbour, SG, Baybayan, PA, Benoit, VA, Benson, KF, Bevis, C, Black, PJ, Boodhun, A, Brennan, JS, Bridgham, JA, Brown, RC, Brown, AA, Buermann, DH, Bundu, AA, Burrows, JC, Carter, NP, Castillo, N, Chiara E. Catenazzi, M, Chang, S, Neil Cooley, R, Crake, NR, Dada, OO, Diakoumakos, KD, Dominguez-Fernandez, B, Earnshaw, DJ, Egbujor, UC, Elmore, DW, Etchin, SS, Ewan, MR, Fedurco, M, Fraser, LJ, Fuentes Fajardo, KV, Scott Furey, W, George, D, Gietzen, KJ, Goddard, CP, Golda, GS, Granieri, PA, Green, DE, Gustafson, DL, Hansen, NF, Harnish, K, Haudenschild, CD, Heyer, NI, Hims, MM, Ho, JT, Horgan, AM, Hoschler, K, Hurwitz, S, Ivanov, DV, Johnson, MQ, James, T, Huw Jones, TA, Kang, G-D, Kerelska, TH, Kersey, AD, Khrebtukova, I, Kindwall, AP, Kingsbury, Z, Kokko-Gonzales, PI, Kumar, A, Laurent, MA, Lawley, CT, Lee, SE, Lee, X, Liao, AK, Loch, JA, Lok, M, Luo, S, Mammen, RM, Martin, JW, McCauley, PG, McNitt, P, Mehta, P, Moon, KW, Mullens, JW, Newington, T, Ning, Z, Ling Ng, B, Novo, SM, O’Neill, MJ, Osborne, MA, Osnowski, A, Ostadan, O, Paraschos, LL, Pickering, L, Pike, AC, Pike, AC, Chris Pinkard, D, Pliskin, DP, Podhasky, J, Quijano, VJ, Raczy, C, Rae, VH, Rawlings, SR, Chiva Rodriguez, A, Roe, PM, Rogers, J, Rogert Bacigalupo, MC, Romanov, N, Romieu, A, Roth, RK, Rourke, NJ, Ruediger, ST, Rusman, E, Sanches-Kuiper, RM, Schenker, MR, Seoane, JM, Shaw, RJ, Shiver, MK, Short, SW, Sizto, NL, Sluis, JP, Smith, MA, Ernest Sohna Sohna, J, Spence, EJ, Stevens, K, Sutton, N, Szajkowski, L, Tregidgo, CL, Turcatti, G, vandeVondele, S, Verhovsky, Y, Virk, SM, Wakelin, S, Walcott, GC, Wang, J, Worsley, GJ, Yan, J, Yau, L, Zuerlein, M, Rogers, J, Mullikin, JC, Hurles, ME, McCooke, NJ, West, JS, Oaks, FL, Lundberg, PL, Klenerman, D, Durbin, R & Smith, AJ 2008, 'Accurate whole human genome sequencing using reversible terminator chemistry', Nature, vol. 456, no. 7218, pp. 53-59.
+
+Berge, KVd, Hembach, KM, Soneson, C, Tiberi, S, Clement, L, Love, MI, Patro, R & Robinson, MD 2019, 'RNA Sequencing Data: Hitchhiker's Guide to Expression Analysis', Annual Review of Biomedical Data Science, vol. 2, no. 1, pp. 139-173.
+
+Bi, Y & Davuluri, RV 2013, 'NPEBseq: nonparametric empirical bayesian-based procedure for differential expression analysis of RNA-seq data', BMC Bioinformatics, vol. 14, no. 1, p. 262.
+
+Bisht, K, Sharma, KP, Lecours, C, Gabriela Sánchez, M, El Hajj, H, Milior, G, Olmos-Alonso, A, Gómez-Nicola, D, Luheshi, G, Vallières, L, Branchi, I, Maggi, L, Limatola, C, Butovsky, O & Tremblay, M-È 2016, 'Dark microglia: A new phenotype predominantly associated with pathological states', Glia, vol. 64, no. 5, pp. 826-839.
+
+Blencowe, H, Cousens, S, Oestergaard, MZ, Chou, D, Moller, A-B, Narwal, R, Adler, A, Vera Garcia, C, Rohde, S, Say, L & Lawn, JE 2012, 'National, regional, and worldwide estimates of preterm birth rates in the year 2010 with time trends since 1990 for selected countries: a systematic analysis and implications', The Lancet, vol. 379, no. 9832, pp. 2162-2172.
+
+Bokobza, C, Van Steenwinckel, J, Mani, S, Mezger, V, Fleiss, B & Gressens, P 2019, 'Neuroinflammation in preterm babies and autism spectrum disorders', Pediatric research, vol. 85, no. 2, pp. 155-165.
+
+Bolger, AM, Lohse, M & Usadel, B 2014, 'Trimmomatic: a flexible trimmer for Illumina sequence data', Bioinformatics, vol. 30, no. 15, pp. 2114-2120.
+
+Bolstad, BM, Irizarry, RA, Åstrand, M & Speed, TP 2003, 'A comparison of normalization methods for high density oligonucleotide array data based on variance and bias', Bioinformatics, vol. 19, no. 2, pp. 185-193.
+
+Bordt, EA, Jo, YC, Norris, HA & Bilbo, SD 2021, 'Perinatal sex hormones induce male-biased microglial mitochondrial dysfunction', Brain, Behavior, and Immunity, vol. 98, pp. 6-6.
+
+Bourgon, R, Gentleman, R & Huber, W 2010, 'Independent filtering increases detection power for high-throughput experiments', Proceedings of the National Academy of Sciences, vol. 107, no. 21, pp. 9546-9551.
+
+Boyle, EI, Weng, S, Gollub, J, Jin, H, Botstein, D, Cherry, JM & Sherlock, G 2004, 'GO::TermFinder—open source software for accessing Gene Ontology information and finding significantly enriched Gene Ontology terms associated with a list of genes', Bioinformatics, vol. 20, no. 18, pp. 3710-3715.
+
+Bray, NL, Pimentel, H, Melsted, P & Pachter, L 2016, 'Near-optimal probabilistic RNA-seq quantification', Nature Biotechnology, vol. 34, no. 5, pp. 525-527.
+
+Bray, NL, Pimentel, H, Melsted, P & Pachter, L 2016, 'Near-optimal probabilistic RNA-seq quantification', Nature Biotechnology, vol. 34, no. 5, pp. 525-527.
+
+Bray, NL, Pimentel, H, Melsted, P & Pachter, L 2016, 'Near-optimal probabilistic RNA-seq quantification', Nature Biotechnology, vol. 34, no. 5, pp. 525-527.
+
+Bridgham, JT, Eick, GN, Larroux, C, Deshpande, K, Harms, MJ, Gauthier, MEA, Ortlund, EA, Degnan, BM & Thornton, JW 2010, 'Protein Evolution by Molecular Tinkering: Diversification of the Nuclear Receptor Superfamily from a Ligand-Dependent Ancestor', PLOS Biology, vol. 8, no. 10, p. e1000497.
+
+Brochu, M-E, Girard, S, Lavoie, K & Sébire, G 2011, 'Developmental regulation of the neuroinflammatory responses to LPS and/or hypoxia-ischemia between preterm and term neonates: An experimental study', Journal of Neuroinflammation, vol. 8, no. 1, p. 55.
+
+Bruttger, J, Karram, K, Wörtge, S, Regen, T, Marini, F, Hoppmann, N, Klein, M, Blank, T, Yona, S, Wolf, Y, Mack, M, Pinteaux, E, Müller, W, Zipp, F, Binder, H, Bopp, T, Prinz, M, Jung, S & Waisman, A 2015, 'Genetic Cell Ablation Reveals Clusters of Local Self-Renewing Microglia in the Mammalian Central Nervous System', Immunity, vol. 43, no. 1, pp. 92-106.
+
+Buettner, F, Natarajan, KN, Casale, FP, Proserpio, V, Scialdone, A, Theis, FJ, Teichmann, SA, Marioni, JC & Stegle, O 2015, 'Computational analysis of cell-to-cell heterogeneity in single-cell RNA-sequencing data reveals hidden subpopulations of cells', Nature Biotechnology, vol. 33, no. 2, pp. 155-160.
+
+Bukowski, J, Somers, G & Bryanton, J 2001, 'Agricultural contamination of groundwater as a possible risk factor for growth restriction or prematurity', Journal of occupational and environmental medicine, vol., pp. 377-383.
+
+Bullard, JH, Purdom, E, Hansen, KD & Dudoit, S 2010, 'Evaluation of statistical methods for normalization and differential expression in mRNA-Seq experiments', BMC Bioinformatics, vol. 11, no. 1, p. 94.
+
+Burow, KR, Nolan, BT, Rupert, MG & Dubrovsky, NM 2010, 'Nitrate in groundwater of the United States, 1991− 2003', Environmental science & technology, vol. 44, no. 13, pp. 4988-4997.
+
+Burri, NM, Weatherl, R, Moeck, C & Schirmer, M 2019, 'A review of threats to groundwater quality in the anthropocene', Science of The Total Environment, vol. 684, pp. 136-154.
+
+Buvaneshwari, S, Riotte, J, Sekhar, M, Mohan Kumar, MS, Sharma, AK, Duprey, JL, Audry, S, Giriraja, PR, Praveenkumarreddy, Y, Moger, H, Durand, P, Braun, J-J & Ruiz, L 2017, 'Groundwater resource vulnerability and spatial variability of nitrate contamination: Insights from high density tubewell monitoring in a hard rock aquifer', The Science of the total environment, vol. 579, pp. 838-847.
+
+Cain, DW & Cidlowski, JA 2017, 'Immune regulation by glucocorticoids', Nature Reviews Immunology, vol. 17, no. 4, pp. 233-247.
+
+Carbon, S, Ireland, A, Mungall, CJ, Shu, S, Marshall, B, Lewis, S, Hub, tA & Group, tWPW 2008, 'AmiGO: online access to ontology and annotation data', Bioinformatics, vol. 25, no. 2, pp. 288-289.
+
+Carrillo-de Sauvage, MÁ, Maatouk, L, Arnoux, I, Pasco, M, Sanz Diez, A, Delahaye, M, Herrero, MT, Newman, TA, Calvo, CF, Audinat, E, Tronche, F & Vyas, S 2013, 'Potent and multiple regulatory actions of microglial glucocorticoid receptors during CNS inflammation', Cell Death & Differentiation, vol. 20, no. 11, pp. 1546-1557.
+
+Cassiano, RGM, Gaspardo, CM & Linhares, MBM 2016, 'PREMATURITY, NEONATAL HEALTH STATUS, AND LATER CHILD BEHAVIORAL/EMOTIONAL PROBLEMS: A SYSTEMATIC REVIEW', Infant Mental Health Journal, vol. 37, no. 3, pp. 274-288.
+
+Castellani, G, Croese, T, Peralta Ramos, JM & Schwartz, M 2023, 'Transforming the understanding of brain immunity', Science (American Association for the Advancement of Science), vol. 380, no. 6640, p. eabo7649.
+
+Chawanpaiboon, S, Vogel, JP, Moller, A-B, Lumbiganon, P, Petzold, M, Hogan, D, Landoulsi, S, Jampathong, N, Kongwattanakul, K, Laopaiboon, M, Lewis, C, Rattanakanokchai, S, Teng, DN, Thinkhamrop, J, Watananirun, K, Zhang, J, Zhou, W & Gülmezoglu, AM 2019, 'Global, regional, and national estimates of levels of preterm birth in 2014: a systematic review and modelling analysis', The Lancet Global Health, vol. 7, no. 1, pp. e37-e46.
+
+Chen, Y, Lun, A & Smyth, G 2016, 'From reads to genes to pathways: differential expression analysis of RNA-Seq experiments using Rsubread and the edgeR quasi-likelihood pipeline [version 2; peer review: 5 approved]', F1000Research, vol. 5, no. 1438.
+
+Chen, Y, Lun, A & Smyth, G 2016, 'From reads to genes to pathways: differential expression analysis of RNA-Seq experiments using Rsubread and the edgeR quasi-likelihood pipeline [version 2; peer review: 5 approved]', F1000Research, vol. 5, no. 1438.
+
+Cheong, JL, Doyle, LW, Burnett, AC, Lee, KJ, Walsh, JM, Potter, CR, Treyvaud, K, Thompson, DK, Olsen, JE, Anderson, PJ & Spittle, AJ 2017, 'Association Between Moderate and Late Preterm Birth and Neurodevelopment and Social-Emotional Development at Age 2 Years', JAMA Pediatrics, vol. 171, no. 4, pp. e164805-e164805.
+
+Cheong, JL, Doyle, LW, Burnett, AC, Lee, KJ, Walsh, JM, Potter, CR, Treyvaud, K, Thompson, DK, Olsen, JE, Anderson, PJ & Spittle, AJ 2017, 'Association Between Moderate and Late Preterm Birth and Neurodevelopment and Social-Emotional Development at Age 2 Years', JAMA Pediatrics, vol. 171, no. 4, pp. e164805-e164805.
+
+Chertoff, M, Shrivastava, K, Gonzalez, B, Acarin, L & Giménez-Llort, L 2013, 'Differential Modulation of TREM2 Protein during Postnatal Brain Development in Mice', PLOS ONE, vol. 8, no. 8, p. e72083.
+
+Chitu, V, Gokhan, Ş, Nandi, S, Mehler, MF & Stanley, ER 2016, 'Emerging Roles for CSF-1 Receptor and its Ligands in the Nervous System', Trends in Neurosciences, vol. 39, no. 6, pp. 378-393.
+
+Chrousos, GP & Kino, T 2005, 'Intracellular Glucocorticoid Signaling: A Formerly Simple System Turns Stochastic', Science's STKE, vol. 2005, no. 304, pp. pe48-pe48.
+
+Clausen, HS, Ebdrup, NH, Barsøe, IM, Lyngsø, J, Schullehner, J, Ramlau-Hansen, CH, Bay, B & Knudsen, UB 2020, 'Association between drinking water nitrate and adverse reproductive outcomes: a systematic PRISMA review', Water, vol. 12, no. 8, p. 2287.
+
+Coffman, VR, Søndergaard Jensen, A, Trabjerg, BB, Pedersen, CB, Hansen, B, Sigsgaard, T, Olsen, J, Schullehner, J, Pedersen, M & Stayner, LT 2022, 'Prenatal exposure to nitrate from drinking water and the risk of preterm birth: A Danish nationwide cohort study', Environmental Epidemiology, vol. 6, no. 5.
+
+Conesa, A, Madrigal, P, Tarazona, S, Gomez-Cabrero, D, Cervera, A, McPherson, A, Szcześniak, MW, Gaffney, DJ, Elo, LL, Zhang, X & Mortazavi, A 2016, 'A survey of best practices for RNA-seq data analysis', Genome Biology, vol. 17, no. 1, p. 13.
+
+Control, CfD & Prevention 1996, 'Spontaneous abortions possibly related to ingestion of nitrate-contaminated well water--LaGrange County, Indiana, 1991-1994', MMWR. Morbidity and mortality weekly report, vol. 45, no. 26, pp. 569-572.
+
+Corchete, LA, Rojas, EA, Alonso-López, D, De Las Rivas, J, Gutiérrez, NC & Burguillo, FJ 2020, 'Systematic comparison and assessment of RNA-seq procedures for gene expression quantitative analysis', Scientific Reports, vol. 10, no. 1, p. 19737.
+
+Croen, LA, Todoroff, K & Shaw, GM 2001, 'Maternal Exposure to Nitrate from Drinking Water and Diet and Risk for Neural Tube Defects', American Journal of Epidemiology, vol. 153, no. 4, pp. 325-331.
+
+Cruz-Topete, D & Cidlowski, JA 2014, 'One Hormone, Two Actions: Anti- and Pro-Inflammatory Effects of Glucocorticoids', Neuroimmunomodulation, vol. 22, no. 1-2, pp. 20-32.
+
+Cruz-Topete, D & Cidlowski, JA 2015, 'One hormone, two actions: anti- and pro-inflammatory effects of glucocorticoids', Neuroimmunomodulation, vol. 22, no. 1-2, pp. 20-32.
+
+Cruz-Topete, D & Cidlowski, JA 2015, 'One Hormone, Two Actions: Anti- and Pro-Inflammatory Effects of Glucocorticoids', Neuroimmunomodulation, vol. 22, no. 1-2, pp. 20-32.
+
+Cruz-Topete, D & Cidlowski, JA 2018, 'Glucocorticoids: Molecular Mechanisms of Action', in C Riccardi, F Levi-Schaffer & E Tiligada (eds), Immunopharmacology and Inflammation, Springer International Publishing, Cham, <https://doi.org/10.1007/978-3-319-77658-3_11>, pp. 249-266.
+
+Cunningham, CL, Martínez-Cerdeño, V & Noctor, SC 2013, 'Microglia Regulate the Number of Neural Precursor Cells in the Developing Cerebral Cortex', The Journal of Neuroscience, vol. 33, no. 10, pp. 4216-4233.
+
+Cunningham, CL, Martínez-Cerdeño, V & Noctor, SC 2013, 'Microglia Regulate the Number of Neural Precursor Cells in the Developing Cerebral Cortex', The Journal of Neuroscience, vol. 33, no. 10, pp. 4216-4233.
+
+D’Onofrio, BM, Class, QA, Rickert, ME, Larsson, H, Långström, N & Lichtenstein, P 2013, 'Preterm Birth and Mortality and Morbidity: A Population-Based Quasi-experimental Study', JAMA Psychiatry, vol. 70, no. 11, pp. 1231-1240.
+
+Dammann, O & Leviton, A 1997, 'Maternal Intrauterine Infection, Cytokines, and Brain Damage in the Preterm Newborn', Pediatric research, vol. 42, no. 1, pp. 1-8.
+
+De, S, Van Deren, D, Peden, E, Hockin, M, Boulet, A, Titen, S & Capecchi, MR 2018, 'Two distinct ontogenies confer heterogeneity to mouse brain microglia', Development, vol. 145, no. 13, p. dev152306.
+
+Delage, C, Rendina, DN, Malacon, KE, Tremblay, M-È & Bilbo, SD 2021, 'Chapter 3 - Sex differences in microglia as a risk factor for Alzheimer’s disease', in MT Ferretti, AS Dimech & AS Chadha (eds), Sex and Gender Differences in Alzheimer's Disease, Academic Press, <https://www.sciencedirect.com/science/article/pii/B9780128193440000089>, pp. 79-104.
+
+Denes, A, Thornton, P, Rothwell, NJ & Allan, SM 2010, 'Inflammation and brain injury: Acute cerebral ischaemia, peripheral and central inflammation', Brain, Behavior, and Immunity, vol. 24, no. 5, pp. 708-723.
+
+Desplats, P, Gutierrez, AM, Antonelli, MC & Frasch, MG 2020, 'Microglial memory of early life stress and inflammation: Susceptibility to neurodegeneration in adulthood', Neuroscience & Biobehavioral Reviews, vol. 117, pp. 232-242.
+
+Dhabhar, FS 2002, 'Stress-induced augmentation of immune function—The role of stress hormones, leukocyte trafficking, and cytokines', Brain, Behavior, and Immunity, vol. 16, no. 6, pp. 785-798.
+
+Dhabhar, FS 2002, 'Stress-induced augmentation of immune function—The role of stress hormones, leukocyte trafficking, and cytokines', Brain, Behavior, and Immunity, vol. 16, no. 6, pp. 785-798.
+
+Diaz-Jimenez, D, Kolb, JP & Cidlowski, JA 2021, 'Glucocorticoids as Regulators of Macrophage-Mediated Tissue Homeostasis', Frontiers in Immunology, vol. 12.
+
+Dillies, M-A, Rau, A, Aubert, J, Hennequet-Antier, C, Jeanmougin, M, Servant, N, Keime, C, Marot, G, Castel, D, Estelle, J, Guernec, G, Jagla, B, Jouneau, L, Laloë, D, Le Gall, C, Schaëffer, B, Le Crom, S, Guedj, M, Jaffrézic, F & on behalf of The French StatOmique, C 2013, 'A comprehensive evaluation of normalization methods for Illumina high-throughput RNA sequencing data analysis', Briefings in Bioinformatics, vol. 14, no. 6, pp. 671-683.
+
+Dobin, A, Davis, CA, Schlesinger, F, Drenkow, J, Zaleski, C, Jha, S, Batut, P, Chaisson, M & Gingeras, TR 2012, 'STAR: ultrafast universal RNA-seq aligner', Bioinformatics, vol. 29, no. 1, pp. 15-21.
+
+Dobin, A & Gingeras, TR 2015, 'Mapping RNA-seq Reads with STAR', Current Protocols in Bioinformatics, vol. 51, no. 1, pp. 11.14.11-11.14.19.
+
+Domingo-Fernández, D, Mubeen, S, Marín-Llaó, J, Hoyt, CT & Hofmann-Apitius, M 2019, 'PathMe: merging and exploring mechanistic pathway knowledge', BMC Bioinformatics, vol. 20, no. 1, p. 243.
+
+Drăghici, S, Sellamuthu, S & Khatri, P 2006, 'Babel's tower revisited: a universal resource for cross-referencing across annotation databases', Bioinformatics, vol. 22, no. 23, pp. 2934-2939.
+
+Dromard, Y, Arango-Lievano, M, Borie, A, Dedin, M, Fontanaud, P, Torrent, J, Garabedian, MJ, Ginsberg, SD & Jeanneteau, F 2022, 'Loss of glucocorticoid receptor phosphorylation contributes to cognitive and neurocentric damages of the amyloid-β pathway', Acta Neuropathologica Communications, vol. 10, no. 1, p. 91.
+
+Duque, EdA & Munhoz, CD 2016, 'The Pro-inflammatory Effects of Glucocorticoids in the Brain', Frontiers in Endocrinology, vol. 7.
+
+Ejarque-Ortiz, A, Medina, MG, Tusell, JM, Pérez-González, AP, Serratosa, J & Saura, J 2007, 'Upregulation of CCAAT/enhancer binding protein β in activated astrocytes and microglia', Glia, vol. 55, no. 2, pp. 178-188.
+
+Essien, EE, Said Abasse, K, Côté, A, Mohamed, KS, Baig, MMFA, Habib, M, Naveed, M, Yu, X, Xie, W & Jinfang, S 2022, 'Drinking-water nitrate and cancer risk: A systematic review and meta-analysis', Archives of environmental & occupational health, vol. 77, no. 1, pp. 51-67.
+
+Evans, C, Hardin, J & Stoebel, DM 2017, 'Selecting between-sample RNA-Seq normalization methods from the perspective of their assumptions', Briefings in Bioinformatics, vol. 19, no. 5, pp. 776-792.
+
+Fahrenhold, M, Rakic, S, Classey, J, Brayne, C, Ince, PG, Nicoll, JAR, Boche, D & MRC-CFAS 2018, 'TREM2 expression in the human brain: a marker of monocyte recruitment?', Brain Pathology, vol. 28, no. 5, pp. 595-602.
+
+Favrais, G, van de Looij, Y, Fleiss, B, Ramanantsoa, N, Bonnin, P, Stoltenburg-Didinger, G, Lacaud, A, Saliba, E, Dammann, O, Gallego, J, Sizonenko, S, Hagberg, H, Lelièvre, V & Gressens, P 2011, 'Systemic inflammation disrupts the developmental program of white matter', Annals of Neurology, vol. 70, no. 4, pp. 550-565.
+
+Favrais, G, van de Looij, Y, Fleiss, B, Ramanantsoa, N, Bonnin, P, Stoltenburg-Didinger, G, Lacaud, A, Saliba, E, Dammann, O, Gallego, J, Sizonenko, S, Hagberg, H, Lelièvre, V & Gressens, P 2011, 'Systemic inflammation disrupts the developmental program of white matter', Annals of Neurology, vol. 70, no. 4, pp. 550-565.
+
+Fenoglio, A, Georgieff, MK & Elison, JT 2017, 'Social brain circuitry and social cognition in infants born preterm', Journal of Neurodevelopmental Disorders, vol. 9, no. 1, p. 27.
+
+Fernández-López, D, Faustino, J, Daneman, R, Zhou, L, Lee, SY, Derugin, N, Wendland, MF & Vexler, ZS 2012, 'Blood–Brain Barrier Permeability Is Increased After Acute Adult Stroke But Not Neonatal Stroke in the Rat', The Journal of Neuroscience, vol. 32, no. 28, pp. 9588-9600.
+
+Finn, RD, Bateman, A, Clements, J, Coggill, P, Eberhardt, RY, Eddy, SR, Heger, A, Hetherington, K, Holm, L, Mistry, J, Sonnhammer, ELL, Tate, J & Punta, M 2013, 'Pfam: the protein families database', Nucleic acids research, vol. 42, no. D1, pp. D222-D230.
+
+Finn, RD, Bateman, A, Clements, J, Coggill, P, Eberhardt, RY, Eddy, SR, Heger, A, Hetherington, K, Holm, L, Mistry, J, Sonnhammer, ELL, Tate, J & Punta, M 2013, 'Pfam: the protein families database', Nucleic acids research, vol. 42, no. D1, pp. D222-D230.
+
+Finn, RD, Bateman, A, Clements, J, Coggill, P, Eberhardt, RY, Eddy, SR, Heger, A, Hetherington, K, Holm, L, Mistry, J, Sonnhammer, ELL, Tate, J & Punta, M 2013, 'Pfam: the protein families database', Nucleic acids research, vol. 42, no. D1, pp. D222-D230.
+
+Fleiss, B & Gressens, P 2012, 'Tertiary mechanisms of brain damage: a new hope for treatment of cerebral palsy?', Lancet neurology, vol. 11, no. 6, pp. 556-566.
+
+Fleiss, B, Gressens, P & Stolp, HB 2020, 'Cortical Gray Matter Injury in Encephalopathy of Prematurity: Link to Neurodevelopmental Disorders', Frontiers in neurology, vol. 11, pp. 575-575.
+
+Fleiss, B, Van Steenwinckel, J, Bokobza, C, K. Shearer, I, Ross-Munro, E & Gressens, P 2021, 'Microglia-Mediated Neurodegeneration in Perinatal Brain Injuries', Biomolecules, vol. 11, no. 1, p. 99.
+
+Franco-Bocanegra, DK, McAuley, C, Nicoll, JAR & Boche, D 2019, 'Molecular Mechanisms of Microglial Motility: Changes in Ageing and Alzheimer’s Disease', Cells, vol. 8, no. 6, p. 639.
+
+Frank, MG, Miguel, ZD, Watkins, LR & Maier, SF 2010, 'Prior exposure to glucocorticoids sensitizes the neuroinflammatory and peripheral inflammatory responses to E. coli lipopolysaccharide', Brain, Behavior, and Immunity, vol. 24, no. 1, pp. 19-30.
+
+Frank, MG, Miguel, ZD, Watkins, LR & Maier, SF 2010, 'Prior exposure to glucocorticoids sensitizes the neuroinflammatory and peripheral inflammatory responses to E. coli lipopolysaccharide', Brain, Behavior, and Immunity, vol. 24, no. 1, pp. 19-30.
+
+Frank, MG, Thompson, BM, Watkins, LR & Maier, SF 2012, 'Glucocorticoids mediate stress-induced priming of microglial pro-inflammatory responses', Brain, Behavior, and Immunity, vol. 26, no. 2, pp. 337-345.
+
+Garber, M, Grabherr, MG, Guttman, M & Trapnell, C 2011, 'Computational methods for transcriptome annotation and quantification using RNA-seq', Nature Methods, vol. 8, no. 6, pp. 469-477.
+
+Gardner, PP, Daub, J, Tate, JG, Nawrocki, EP, Kolbe, DL, Lindgreen, S, Wilkinson, AC, Finn, RD, Griffiths-Jones, S, Eddy, SR & Bateman, A 2008, 'Rfam: updates to the RNA families database', Nucleic acids research, vol. 37, no. suppl_1, pp. D136-D140.
+
+Giefing-Kröll, C, Berger, P, Lepperdinger, G & Grubeck-Loebenstein, B 2015, 'How sex and age affect immune responses, susceptibility to infections, and response to vaccination', Aging Cell, vol. 14, no. 3, pp. 309-321.
+
+Ginhoux, F, Greter, M, Leboeuf, M, Nandi, S, See, P, Gokhan, S, Mehler, MF, Conway, SJ, Ng, LG, Stanley, ER, Samokhvalov, IM & Merad, M 2010, 'Fate Mapping Analysis Reveals That Adult Microglia Derive from Primitive Macrophages', Science, vol. 330, no. 6005, pp. 841-845.
+
+Glezen, WP, Loda, FA, Clyde, WA, Jr., Senior, RJ, Sheaffer, CI, Conley, WG & Denny, FW 1971, 'Epidemiologic patterns of acute lower respiratory disease of children in a pediatric group practice', The Journal of Pediatrics, vol. 78, no. 3, pp. 397-406.
+
+Glezen, WP, Loda, FA, Clyde, WA, Jr., Senior, RJ, Sheaffer, CI, Conley, WG & Denny, FW 1971, 'Epidemiologic patterns of acute lower respiratory disease of children in a pediatric group practice', The Journal of Pediatrics, vol. 78, no. 3, pp. 397-406.
+
+Globus, M & Samuel, D 1978, 'Effect of maternally administered sodium nitrite on hepatic erythropoiesis in fetal CD‐1 mice', Teratology, vol. 18, no. 3, pp. 367-377.
+
+Gomez Perdiguero, E, Klapproth, K, Schulz, C, Busch, K, Azzoni, E, Crozet, L, Garner, H, Trouillet, C, de Bruijn, MF, Geissmann, F & Rodewald, H-R 2015, 'Tissue-resident macrophages originate from yolk-sac-derived erythro-myeloid progenitors', Nature, vol. 518, no. 7540, pp. 547-551.
+
+Gomez‐Lopez, N, Romero, R, Galaz, J, Xu, Y, Panaitescu, B, Slutsky, R, Motomura, K, Gill, N, Para, R, Pacora, P, Jung, E & Hsu, CD 2019, 'Cellular immune responses in amniotic fluid of women with preterm labor and intra‐amniotic infection or intra‐amniotic inflammation', American journal of reproductive immunology (1989), vol. 82, no. 5, pp. e13171-n/a.
+
+Gosselin, D, Skola, D, Coufal, NG, Holtman, IR, Schlachetzki, JCM, Sajti, E, Jaeger, BN, O’Connor, C, Fitzpatrick, C, Pasillas, MP, Pena, M, Adair, A, Gonda, DD, Levy, ML, Ransohoff, RM, Gage, FH & Glass, CK 2017, 'An environment-dependent transcriptional network specifies human microglia identity', Science, vol. 356, no. 6344, p. eaal3222.
+
+Gosselin, D, Skola, D, Coufal, NG, Holtman, IR, Schlachetzki, JCM, Sajti, E, Jaeger, BN, O’Connor, C, Fitzpatrick, C, Pasillas, MP, Pena, M, Adair, A, Gonda, DD, Levy, ML, Ransohoff, RM, Gage, FH & Glass, CK 2017, 'An environment-dependent transcriptional network specifies human microglia identity', Science, vol. 356, no. 6344, p. eaal3222.
+
+Grönwall, J & Danert, K 2020, 'Regarding groundwater and drinking water access through a human rights lens: Self-supply as a norm', Water, vol. 12, no. 2, p. 419.
+
+Grün, D & van Oudenaarden, A 2015, 'Design and Analysis of Single-Cell Sequencing Experiments', Cell, vol. 163, no. 4, pp. 799-810.
+
+Guneykaya, D, Ivanov, A, Hernandez, DP, Haage, V, Wojtas, B, Meyer, N, Maricos, M, Jordan, P, Buonfiglioli, A, Gielniewski, B, Ochocka, N, Cömert, C, Friedrich, C, Artiles, LS, Kaminska, B, Mertins, P, Beule, D, Kettenmann, H & Wolf, SA 2018, 'Transcriptional and Translational Differences of Microglia from Male and Female Brains', Cell Reports, vol. 24, no. 10, pp. 2773-2783.e2776.
+
+Gussenhoven, R, Westerlaken, RJJ, Ophelders, DRMG, Jobe, AH, Kemp, MW, Kallapur, SG, Zimmermann, LJ, Sangild, PT, Pankratova, S, Gressens, P, Kramer, BW, Fleiss, B & Wolfs, TGAM 2018, 'Chorioamnionitis, neuroinflammation, and injury: timing is key in the preterm ovine fetus', Journal of Neuroinflammation, vol. 15, no. 1, p. 113.
+
+Hagberg, H, Mallard, C, Ferriero, DM, Vannucci, SJ, Levison, SW, Vexler, ZS & Gressens, P 2015, 'The role of inflammation in perinatal brain injury', Nature Reviews Neurology, vol. 11, no. 4, pp. 192-208.
+
+Hagberg, H, Mallard, C, Ferriero, DM, Vannucci, SJ, Levison, SW, Vexler, ZS & Gressens, P 2015, 'The role of inflammation in perinatal brain injury', Nature Reviews Neurology, vol. 11, no. 4, pp. 192-208.
+
+Haldipur, P, Dupuis, N, Degos, V, Moniaux, N, Chhor, V, Rasika, S, Schwendimann, L, le Charpentier, T, Rougier, E, Amouyal, P, Amouyal, G, Dournaud, P, Bréchot, C, El Ghouzzi, V, Faivre, J, Fleiss, B, Mani, S & Gressens, P 2014, 'HIP/PAP prevents excitotoxic neuronal death and promotes plasticity', Annals of Clinical and Translational Neurology, vol. 1, no. 10, pp. 739-754.
+
+Hammond, TR, Dufort, C, Dissing-Olesen, L, Giera, S, Young, A, Wysoker, A, Walker, AJ, Gergits, F, Segel, M, Nemesh, J, Marsh, SE, Saunders, A, Macosko, E, Ginhoux, F, Chen, J, Franklin, RJM, Piao, X, McCarroll, SA & Stevens, B 2019, 'Single-Cell RNA Sequencing of Microglia throughout the Mouse Lifespan and in the Injured Brain Reveals Complex Cell-State Changes', Immunity (Cambridge, Mass.), vol. 50, no. 1, pp. 253-271.e256.
+
+Hanamsagar, R, Alter, MD, Block, CS, Sullivan, H, Bolton, JL & Bilbo, SD 2018, 'Generation of a microglial developmental index in mice and in humans reveals a sex difference in maturation and immune reactivity', Glia, vol. 66, no. 2, pp. 460-460.
+
+Hanisch, U-K & Kettenmann, H 2007, 'Microglia: active sensor and versatile effector cells in the normal and pathologic brain', Nature Neuroscience, vol. 10, no. 11, pp. 1387-1394.
+
+Hansen, KD, Brenner, SE & Dudoit, S 2010, 'Biases in Illumina transcriptome sequencing caused by random hexamer priming', Nucleic acids research, vol. 38, no. 12, pp. e131-e131.
+
+Hansen, KD, Brenner, SE & Dudoit, S 2010, 'Biases in Illumina transcriptome sequencing caused by random hexamer priming', Nucleic acids research, vol. 38, no. 12, pp. e131-e131.
+
+Hansen, KD, Irizarry, RA & WU, Z 2012, 'Removing technical variability in RNA-seq data using conditional quantile normalization', Biostatistics, vol. 13, no. 2, pp. 204-216.
+
+Hänzelmann, S, Castelo, R & Guinney, J 2013, 'GSVA: gene set variation analysis for microarray and RNA-Seq data', BMC Bioinformatics, vol. 14, no. 1, p. 7.
+
+Hauke, J & Kossowski, T 2011, 'Comparison of values of Pearson's and Spearman's correlation coefficients on the same sets of data', Quaestiones geographicae, vol. 30, no. 2, pp. 87-93.
+
+Heinonen, K, Eriksson, JG, Lahti, J, Kajantie, E, Pesonen, A-K, Tuovinen, S, Osmond, C & Raikkonen, K 2015, 'Late Preterm Birth and Neurocognitive Performance in Late Adulthood: A Birth Cohort Study', Pediatrics, vol. 135, no. 4, pp. e818-e825.
+
+Hickman, S, Izzy, S, Sen, P, Morsett, L & El Khoury, J 2018, 'Microglia in neurodegeneration', Nature Neuroscience, vol. 21, no. 10, pp. 1359-1369.
+
+Hicks, SC, Okrah, K, Paulson, JN, Quackenbush, J, Irizarry, RA & Bravo, HC 2017, 'Smooth quantile normalization', Biostatistics, vol. 19, no. 2, pp. 185-198.
+
+Huang, DW, Sherman, BT & Lempicki, RA 2008, 'Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists', Nucleic acids research, vol. 37, no. 1, pp. 1-13.
+
+Hyde, ER, Andrade, F, Vaksman, Z, Parthasarathy, K, Jiang, H, Parthasarathy, DK, Torregrossa, AC, Tribble, G, Kaplan, HB, Petrosino, JF & Bryan, NS 2014, 'Metagenomic Analysis of Nitrate-Reducing Bacteria in the Oral Cavity: Implications for Nitric Oxide Homeostasis', PLOS ONE, vol. 9, no. 3, p. e88645.
+
+Jiang, P, Turkalj, L & Xu, R 2020, 'High-Fidelity Modeling of Human Microglia with Pluripotent Stem Cells', Cell Stem Cell, vol. 26, no. 5, pp. 629-631.
+
+Johnson, WE, Li, C & Rabinovic, A 2007, 'Adjusting batch effects in microarray expression data using empirical Bayes methods', Biostatistics, vol. 8, no. 1, pp. 118-127.
+
+Jung, S, Aliberti, J, Graemmel, P, Sunshine, MJ, Kreutzberg, GW, Sher, A & Littman, DR 2000, 'Analysis of Fractalkine Receptor CX3CR1 Function by Targeted Deletion and Green Fluorescent Protein Reporter Gene Insertion', Molecular and Cellular Biology, vol. 20, no. 11, pp. 4106-4114.
+
+Jurga, AM, Paleczna, M & Kuter, KZ 2020, 'Overview of General and Discriminating Markers of Differential Microglia Phenotypes', Frontiers in Cellular Neuroscience, vol. 14.
+
+Kadmiel, M & Cidlowski, JA 2013, 'Glucocorticoid receptor signaling in health and disease', Trends in pharmacological sciences (Regular ed.), vol. 34, no. 9, pp. 518-530.
+
+Kadmiel, M & Cidlowski, JA 2013, 'Glucocorticoid receptor signaling in health and disease', Trends in pharmacological sciences (Regular ed.), vol. 34, no. 9, pp. 518-530.
+
+Kanehisa, M, Furumichi, M, Tanabe, M, Sato, Y & Morishima, K 2016, 'KEGG: new perspectives on genomes, pathways, diseases and drugs', Nucleic acids research, vol. 45, no. D1, pp. D353-D361.
+
+Katz, Y, Wang, ET, Airoldi, EM & Burge, CB 2010, 'Analysis and design of RNA sequencing experiments for identifying isoform regulation', Nature Methods, vol. 7, no. 12, pp. 1009-1015.
+
+Keren-Shaul, H, Spinrad, A, Weiner, A, Matcovitch-Natan, O, Dvir-Szternfeld, R, Ulland, TK, David, E, Baruch, K, Lara-Astaiso, D, Toth, B, Itzkovitz, S, Colonna, M, Schwartz, M & Amit, I 2017, 'A Unique Microglia Type Associated with Restricting Development of Alzheimer&#x2019;s Disease', Cell, vol. 169, no. 7, pp. 1276-1290.e1217.
+
+Kettenmann, H, Kirchhoff, F & Verkhratsky, A 2013, 'Microglia: New Roles for the Synaptic Stripper', Neuron (Cambridge, Mass.), vol. 77, no. 1, pp. 10-18.
+
+Kierdorf, K, Erny, D, Goldmann, T, Sander, V, Schulz, C, Perdiguero, EG, Wieghofer, P, Heinrich, A, Riemke, P, Hölscher, C, Müller, DN, Luckow, B, Brocker, T, Debowski, K, Fritz, G, Opdenakker, G, Diefenbach, A, Biber, K, Heikenwalder, M, Geissmann, F, Rosenbauer, F & Prinz, M 2013, 'Microglia emerge from erythromyeloid precursors via Pu.1- and Irf8-dependent pathways', Nature Neuroscience, vol. 16, no. 3, pp. 273-280.
+
+Kim, D, Langmead, B & Salzberg, SL 2015, 'HISAT: a fast spliced aligner with low memory requirements', Nature Methods, vol. 12, no. 4, pp. 357-360.
+
+Kim, D, Paggi, JM, Park, C, Bennett, C & Salzberg, SL 2019, 'Graph-based genome alignment and genotyping with HISAT2 and HISAT-genotype', Nature Biotechnology, vol. 37, no. 8, pp. 907-915.
+
+Kino, T, Su, YA & Chrousos, GP 2009, 'Human glucocorticoid receptor isoform β: recent understanding of its potential implications in physiology and pathophysiology', Cellular and Molecular Life Sciences, vol. 66, no. 21, pp. 3435-3448.
+
+Kino, T, Su, YA & Chrousos, GP 2009, 'Human glucocorticoid receptor isoform β: recent understanding of its potential implications in physiology and pathophysiology', Cellular and Molecular Life Sciences, vol. 66, no. 21, pp. 3435-3448.
+
+Kisielow, M, Kleiner, S, Nagasawa, M, Faisal, A & Nagamine, Y 2002, 'Isoform-specific knockdown and expression of adaptor protein ShcA using small interfering RNA', Biochemical Journal, vol. 363, no. 1, pp. 1-5.
+
+Klein, SL & Flanagan, KL 2016, 'Sex differences in immune responses', Nature Reviews Immunology, vol. 16, no. 10, pp. 626-638.
+
+Koch, CM, Chiu, SF, Akbarpour, M, Bharat, A, Ridge, KM, Bartom, ET & Winter, DR 2018, 'A Beginner’s Guide to Analysis of RNA Sequencing Data', American Journal of Respiratory Cell and Molecular Biology, vol. 59, no. 2, pp. 145-157.
+
+Koire, A, Chu, DM & Aagaard, K 2021, 'Family history is a predictor of current preterm birth', American Journal of Obstetrics & Gynecology MFM, vol. 3, no. 1.
+
+Kolberg, L, Raudvere, U, Kuzmin, I, Vilo, J & Peterson, H 2020, 'gprofiler2 -- an R package for gene list functional enrichment analysis and namespace conversion toolset g:Profiler [version 2; peer review: 2 approved]', F1000Research, vol. 9, no. 709.
+
+Korthauer, K, Kimes, PK, Duvallet, C, Reyes, A, Subramanian, A, Teng, M, Shukla, C, Alm, EJ & Hicks, SC 2019, 'A practical guide to methods controlling false discoveries in computational biology', Genome Biology, vol. 20, no. 1, pp. 1-21.
+
+Krishnan, ML, Van Steenwinckel, J, Schang, A-L, Yan, J, Arnadottir, J, Le Charpentier, T, Csaba, Z, Dournaud, P, Cipriani, S, Auvynet, C, Titomanlio, L, Pansiot, J, Ball, G, Boardman, JP, Walley, AJ, Saxena, A, Mirza, G, Fleiss, B, Edwards, AD, Petretto, E & Gressens, P 2017, 'Integrative genomics of microglia implicates DLG4 (PSD95) in the white matter development of preterm infants', Nature Communications, vol. 8, no. 1, p. 428.
+
+Krishnan, ML, Wang, Z, Aljabar, P, Ball, G, Mirza, G, Saxena, A, Counsell, SJ, Hajnal, JV, Montana, G & Edwards, AD 2017, 'Machine learning shows association between genetic variability in <i>PPARG</i> and cerebral connectivity in preterm infants', Proceedings of the National Academy of Sciences, vol. 114, no. 52, pp. 13744-13749.
+
+Križanović, K, Echchiki, A, Roux, J & Šikić, M 2017, 'Evaluation of tools for long read RNA-seq splice-aware alignment', Bioinformatics, vol. 34, no. 5, pp. 748-754.
+
+Kukurba, KR & Montgomery, SB 2015, 'RNA Sequencing and Analysis', Cold Spring Harbor Protocols, vol. 2015, no. 11, p. pdb.top084970.
+
+Lai, T-Y, Wu, S-D, Tsai, M-H, Chuang, EY, Chuang, L-L, Hsu, L-C & Lai, L-C 2013, 'Transcription of Tnfaip3 Is Regulated by NF-κB and p38 via C/EBPβ in Activated Macrophages', PLOS ONE, vol. 8, no. 9, p. e73153.
+
+Lane, RH 2014, 'Fetal Programming, Epigenetics, and Adult Onset Disease', Clinics in Perinatology, vol. 41, no. 4, pp. 815-831.
+
+Lau, J, Magee, F, Qiu, Z, Houbé, J, Von Dadelszen, P & Lee, SK 2005, 'Chorioamnionitis with a fetal inflammatory response is associated with higher neonatal mortality, morbidity, and resource use than chorioamnionitis displaying a maternal inflammatory response only', American Journal of Obstetrics and Gynecology, vol. 193, no. 3, pp. 708-713.
+
+Laverty, C, Surtees, A, O’Sullivan, R, Sutherland, D, Jones, C & Richards, C 2021, 'The prevalence and profile of autism in individuals born preterm: a systematic review and meta-analysis', Journal of Neurodevelopmental Disorders, vol. 13, no. 1, p. 41.
+
+Law, C, Alhamdoosh, M, Su, S, Dong, X, Tian, L, Smyth, G & Ritchie, M 2018, 'RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR [version 3; peer review: 3 approved]', F1000Research, vol. 5, no. 1408.
+
+Law, C, Zeglinski, K, Dong, X, Alhamdoosh, M, Smyth, G & Ritchie, M 2020, 'A guide to creating design matrices for gene expression experiments [version 1; peer review: 2 approved]', F1000Research, vol. 9, no. 1444.
+
+Law, CW, Chen, Y, Shi, W & Smyth, GK 2014, 'voom: precision weights unlock linear model analysis tools for RNA-seq read counts', Genome Biology, vol. 15, no. 2, p. R29.
+
+Lawson, LJ, Perry, VH, Dri, P & Gordon, S 1990, 'Heterogeneity in the distribution and morphology of microglia in the normal adult mouse brain', Neuroscience, vol. 39, no. 1, pp. 151-170.
+
+Leek, JT 2014, 'svaseq: removing batch effects and other unwanted noise from sequencing data', Nucleic acids research, vol. 42, no. 21, pp. e161-e161.
+
+Leek, JT, Johnson, WE, Parker, HS, Jaffe, AE & Storey, JD 2012, 'The sva package for removing batch effects and other unwanted variation in high-throughput experiments', Bioinformatics, vol. 28, no. 6, pp. 882-883.
+
+Leek, JT, Scharpf, RB, Bravo, HC, Simcha, D, Langmead, B, Johnson, WE, Geman, D, Baggerly, K & Irizarry, RA 2010, 'Tackling the widespread and critical impact of batch effects in high-throughput data', Nature Reviews Genetics, vol. 11, no. 10, pp. 733-739.
+
+Leviton, A, Joseph, RM, Allred, EN, Fichorova, RN, O'Shea, TM, Kuban, KKC & Dammann, O 2018, 'The risk of neurodevelopmental disorders at age 10 years associated with blood concentrations of interleukins 4 and 10 during the first postnatal month of children born extremely preterm', Cytokine, vol. 110, pp. 181-188.
+
+Lewis-Tuffin, LJ & Cidlowski, JA 2006, 'The Physiology of Human Glucocorticoid Receptor β (hGRβ) and Glucocorticoid Resistance', Annals of the New York Academy of Sciences, vol. 1069, no. 1, pp. 1-9.
+
+Li, B & Dewey, CN 2011, 'RSEM: accurate transcript quantification from RNA-Seq data with or without a reference genome', BMC Bioinformatics, vol. 12, no. 1, p. 323.
+
+Li, B, Ruotti, V, Stewart, RM, Thomson, JA & Dewey, CN 2009, 'RNA-Seq gene expression estimation with read mapping uncertainty', Bioinformatics, vol. 26, no. 4, pp. 493-500.
+
+Li, J & Tibshirani, R 2011, 'Finding consistent patterns: A nonparametric approach for identifying differential expression in RNA-Seq data', Statistical Methods in Medical Research, vol. 22, no. 5, pp. 519-536.
+
+Li, P, Piao, Y, Shon, HS & Ryu, KH 2015, 'Comparing the normalization methods for the differential analysis of Illumina high-throughput RNA-Seq data', BMC Bioinformatics, vol. 16, no. 1, p. 347.
+
+Li, P, Piao, Y, Shon, HS & Ryu, KH 2015, 'Comparing the normalization methods for the differential analysis of Illumina high-throughput RNA-Seq data', BMC Bioinformatics, vol. 16, no. 1, p. 347.
+
+Li, P, Piao, Y, Shon, HS & Ryu, KH 2015, 'Comparing the normalization methods for the differential analysis of Illumina high-throughput RNA-Seq data', BMC Bioinformatics, vol. 16, no. 1, p. 347.
+
+Li, Q & Barres, BA 2018, 'Microglia and macrophages in brain homeostasis and disease', Nature Reviews Immunology, vol. 18, no. 4, pp. 225-242.
+
+Li, X, Brock, GN, Rouchka, EC, Cooper, NGF, Wu, D, O’Toole, TE, Gill, RS, Eteleeb, AM, O’Brien, L & Rai, SN 2017, 'A comparison of per sample global scaling and per gene normalization methods for differential expression analysis of RNA-seq data', PLOS ONE, vol. 12, no. 5, p. e0176185.
+
+Li, X, Brock, GN, Rouchka, EC, Cooper, NGF, Wu, D, O’Toole, TE, Gill, RS, Eteleeb, AM, O’Brien, L & Rai, SN 2017, 'A comparison of per sample global scaling and per gene normalization methods for differential expression analysis of RNA-seq data', PLOS ONE, vol. 12, no. 5, p. e0176185.
+
+Li, Y, Ge, X, Peng, F, Li, W & Li, JJ 2022, 'Exaggerated false positives by popular differential expression methods when analyzing human population samples', Genome Biology, vol. 23, no. 1, p. 79.
+
+Liao, Y, Smyth, GK & Shi, W 2013, 'featureCounts: an efficient general purpose program for assigning sequence reads to genomic features', Bioinformatics, vol. 30, no. 7, pp. 923-930.
+
+Liao, Y, Smyth, GK & Shi, W 2013, 'featureCounts: an efficient general purpose program for assigning sequence reads to genomic features', Bioinformatics, vol. 30, no. 7, pp. 923-930.
+
+Libert, C, Dejager, L & Pinheiro, I 2010, 'The X chromosome in immune functions: when a chromosome makes the difference', Nature Reviews Immunology, vol. 10, no. 8, pp. 594-604.
+
+Lidder, S & Webb, AJ 2013, 'Vascular effects of dietary nitrate (as found in green leafy vegetables and beetroot) via the nitrate‐nitrite‐nitric oxide pathway', British journal of clinical pharmacology, vol. 75, no. 3, pp. 677-696.
+
+Lim, H-Y, Müller, N, Herold, MJ, Van Den Brandt, J & Reichardt, HM 2007, 'Glucocorticoids exert opposing effects on macrophage function dependent on their concentration', Immunology, vol. 122, no. 1, pp. 47-53.
+
+Limperopoulos, C, Bassan, H, Sullivan, NR, Soul, JS, Robertson, RL, Jr., Moore, M, Ringer, SA, Volpe, JJ & du Plessis, AJ 2008, 'Positive Screening for Autism in Ex-preterm Infants: Prevalence and Risk Factors', Pediatrics, vol. 121, no. 4, pp. 758-765.
+
+Lin, L, St Clair, S, Gamble, GD, Crowther, CA, Dixon, L, Bloomfield, FH & Harding, JE 2023, 'Nitrate contamination in drinking water and adverse reproductive and birth outcomes: a systematic review and meta-analysis', Scientific Reports, vol. 13, no. 1, p. 563.
+
+Lin, Y, Golovnina, K, Chen, Z-X, Lee, HN, Negron, YLS, Sultana, H, Oliver, B & Harbison, ST 2016, 'Comparison of normalization and differential expression analyses using RNA-Seq data from 726 individual Drosophila melanogaster', BMC Genomics, vol. 17, no. 1, p. 28.
+
+Liu, X, Li, N, Liu, S, Wang, J, Zhang, N, Zheng, X, Leung, K-S & Cheng, L 2019, 'Normalization methods for the analysis of unbalanced transcriptome data: a review', Frontiers in bioengineering and biotechnology, vol. 7, p. 358.
+
+Louveau, A, Harris, TH & Kipnis, J 2015, 'Revisiting the Mechanisms of CNS Immune Privilege', Trends in Immunology, vol. 36, no. 10, pp. 569-577.
+
+Louveau, A, Harris, TH & Kipnis, J 2015, 'Revisiting the Mechanisms of CNS Immune Privilege', Trends in Immunology, vol. 36, no. 10, pp. 569-577.
+
+Love, MI, Hogenesch, JB & Irizarry, RA 2016, 'Modeling of RNA-seq fragment sequence bias reduces systematic errors in transcript abundance estimation', Nature Biotechnology, vol. 34, no. 12, pp. 1287-1291.
+
+Love, MI, Huber, W & Anders, S 2014, 'Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2', Genome Biology, vol. 15, no. 12, p. 550.
+
+Love, MI, Huber, W & Anders, S 2014, 'Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2', Genome Biology, vol. 15, no. 12, p. 550.
+
+Lovén, J, Orlando, David A, Sigova, Alla A, Lin, Charles Y, Rahl, Peter B, Burge, Christopher B, Levens, David L, Lee, Tong I & Young, Richard A 2012, 'Revisiting Global Gene Expression Analysis', Cell, vol. 151, no. 3, pp. 476-482.
+
+Lu, J, Tomfohr, JK & Kepler, TB 2005, 'Identifying differential expression in multiple SAGE libraries: an overdispersed log-linear model approach', BMC Bioinformatics, vol. 6, no. 1, p. 165.
+
+Lun, ATL, Chen, Y & Smyth, GK 2016, 'It’s DE-licious: A Recipe for Differential Expression Analyses of RNA-seq Experiments Using Quasi-Likelihood Methods in edgeR', in E Mathé & S Davis (eds), Statistical Genomics: Methods and Protocols, Springer New York, New York, NY, <https://doi.org/10.1007/978-1-4939-3578-9_19>, pp. 391-416.
+
+Lund, SP, Nettleton, D, McCarthy, DJ & Smyth, GK 2012, 'Detecting Differential Expression in RNA-sequence Data Using Quasi-likelihood with Shrunken Dispersion Estimates', vol. 11, no. 5.
+
+Maatouk, L, Compagnion, A-C, Sauvage, M-AC-d, Bemelmans, A-P, Leclere-Turbant, S, Cirotteau, V, Tohme, M, Beke, A, Trichet, M, Bazin, V, Trawick, BN, Ransohoff, RM, Tronche, F, Manoury, B & Vyas, S 2018, 'TLR9 activation via microglial glucocorticoid receptors contributes to degeneration of midbrain dopamine neurons', Nature Communications, vol. 9, no. 1, p. 2450.
+
+Maatouk, L, Compagnion, A-C, Sauvage, M-AC-d, Bemelmans, A-P, Leclere-Turbant, S, Cirotteau, V, Tohme, M, Beke, A, Trichet, M, Bazin, V, Trawick, BN, Ransohoff, RM, Tronche, F, Manoury, B & Vyas, S 2018, 'TLR9 activation via microglial glucocorticoid receptors contributes to degeneration of midbrain dopamine neurons', Nature Communications, vol. 9, no. 1, p. 2450.
+
+ Mairesse, J, Zinni, M, Pansiot, J, Hassan‐Abdi, R, Demene, C, Colella, M, Charriaut‐Marlangue, C, Rideau Batista Novais, A, Tanter, M, Maccari, S, Gressens, P, Vaiman, D, Soussi‐Yanicostas, N & Baud, O 2019, Oxytocin receptor agonist reduces perinatal brain damage by targeting microglia, John Wiley & Sons, Inc, Hoboken, USA, 0894-1491.
+
+Mansouri, A & Lurie, AA 1993, 'Methemoglobinemia', American journal of hematology, vol. 42, no. 1, pp. 7-12.
+
+Marioni, JC, Mason, CE, Mane, SM, Stephens, M & Gilad, Y 2008, 'RNA-seq: an assessment of technical reproducibility and comparison with gene expression arrays', Genome Research, vol. 18, no. 9, pp. 1509-1517.
+
+Marsh, SE, Walker, AJ, Kamath, T, Dissing-Olesen, L, Hammond, TR, de Soysa, TY, Young, AMH, Murphy, S, Abdulraouf, A, Nadaf, N, Dufort, C, Walker, AC, Lucca, LE, Kozareva, V, Vanderburg, C, Hong, S, Bulstrode, H, Hutchinson, PJ, Gaffney, DJ, Hafler, DA, Franklin, RJM, Macosko, EZ & Stevens, B 2022, 'Dissection of artifactual and confounding glial signatures by single-cell sequencing of mouse and human brain', Nature Neuroscience, vol. 25, no. 3, pp. 306-316.
+
+Marshall, SA, McClain, JA, Kelso, ML, Hopkins, DM, Pauly, JR & Nixon, K 2013, 'Microglial activation is not equivalent to neuroinflammation in alcohol-induced neurodegeneration: The importance of microglia phenotype', Neurobiology of Disease, vol. 54, pp. 239-251.
+
+Martin, M 2011, 'Cutadapt removes adapter sequences from high-throughput sequencing reads', 2011, vol. 17, no. 1, p. 3.
+
+Masuda, T, Amann, L, Sankowski, R, Staszewski, O, Lenz, M, d´Errico, P, Snaidero, N, Costa Jordão, MJ, Böttcher, C, Kierdorf, K, Jung, S, Priller, J, Misgeld, T, Vlachos, A, Meyer-Luehmann, M, Knobeloch, K-P & Prinz, M 2020, 'Novel Hexb-based tools for studying microglia in the CNS', Nature Immunology, vol. 21, no. 7, pp. 802-815.
+
+Matcovitch-Natan, O, Winter, DR, Giladi, A, Vargas Aguilar, S, Spinrad, A, Sarrazin, S, Ben-Yehuda, H, David, E, Zelada González, F, Perrin, P, Keren-Shaul, H, Gury, M, Lara-Astaiso, D, Thaiss, CA, Cohen, M, Bahar Halpern, K, Baruch, K, Deczkowska, A, Lorenzo-Vivas, E, Itzkovitz, S, Elinav, E, Sieweke, MH, Schwartz, M & Amit, I 2016, 'Microglia development follows a stepwise program to regulate brain homeostasis', Science, vol. 353, no. 6301, p. aad8670.
+
+Matcovitch-Natan, O, Winter, DR, Giladi, A, Vargas Aguilar, S, Spinrad, A, Sarrazin, S, Ben-Yehuda, H, David, E, Zelada González, F, Perrin, P, Keren-Shaul, H, Gury, M, Lara-Astaiso, D, Thaiss, CA, Cohen, M, Bahar Halpern, K, Baruch, K, Deczkowska, A, Lorenzo-Vivas, E, Itzkovitz, S, Elinav, E, Sieweke, MH, Schwartz, M & Amit, I 2016, 'Microglia development follows a stepwise program to regulate brain homeostasis', Science, vol. 353, no. 6301, p. aad8670.
+
+Matcovitch-Natan, O, Winter, DR, Giladi, A, Vargas Aguilar, S, Spinrad, A, Sarrazin, S, Ben-Yehuda, H, David, E, Zelada González, F, Perrin, P, Keren-Shaul, H, Gury, M, Lara-Astaiso, D, Thaiss, CA, Cohen, M, Bahar Halpern, K, Baruch, K, Deczkowska, A, Lorenzo-Vivas, E, Itzkovitz, S, Elinav, E, Sieweke, MH, Schwartz, M & Amit, I 2016, 'Microglia development follows a stepwise program to regulate brain homeostasis', Science, vol. 353, no. 6301, p. aad8670.
+
+Mattei, D, Ivanov, A, van Oostrum, M, Pantelyushin, S, Richetto, J, Mueller, F, Beffinger, M, Schellhammer, L, vom Berg, J, Wollscheid, B, Beule, D, Paolicelli, RC & Meyer, U 2020, 'Enzymatic Dissociation Induces Transcriptional and Proteotype Bias in Brain Cell Populations', International Journal of Molecular Sciences, vol. 21, no. 21, p. 7944.
+
+Mattei, D, Ivanov, A, van Oostrum, M, Pantelyushin, S, Richetto, J, Mueller, F, Beffinger, M, Schellhammer, L, vom Berg, J, Wollscheid, B, Beule, D, Paolicelli, RC & Meyer, U 2020, 'Enzymatic Dissociation Induces Transcriptional and Proteotype Bias in Brain Cell Populations', International Journal of Molecular Sciences, vol. 21, no. 21, p. 7944.
+
+Mattson, MP 2019, 'Chapter 11 - Excitotoxicity', in G Fink (ed.), Stress: Physiology, Biochemistry, and Pathology, Academic Press, <https://www.sciencedirect.com/science/article/pii/B9780128131466000114>, pp. 125-134.
+
+Mattson, MP 2019, 'Chapter 11 - Excitotoxicity', in G Fink (ed.), Stress: Physiology, Biochemistry, and Pathology, Academic Press, <https://www.sciencedirect.com/science/article/pii/B9780128131466000114>, pp. 125-134.
+
+Maza, E, Frasse, P, Senin, P, Bouzayen, M & Zouine, M 2013, 'Comparison of normalization methods for differential gene expression analysis in RNA-Seq experiments: a matter of relative size of studied transcriptomes', Communicative & integrative biology, vol. 6, no. 6, p. e25849.
+
+McCarthy, DJ, Chen, Y & Smyth, GK 2012, 'Differential expression analysis of multifactor RNA-Seq experiments with respect to biological variation', Nucleic acids research, vol. 40, no. 10, pp. 4288-4297.
+
+McDougall, ARA, Aboud, L, Lavin, T, Cao, J, Dore, G, Ramson, J, Oladapo, OT & Vogel, JP 2023, 'Effect of antenatal corticosteroid administration-to-birth interval on maternal and newborn outcomes: a systematic review', eClinicalMedicine, vol. 58.
+
+McEwen, BS, Biron, CA, Brunson, KW, Bulloch, K, Chambers, WH, Dhabhar, FS, Goldfarb, RH, Kitson, RP, Miller, AH, Spencer, RL & Weiss, JM 1997, 'The role of adrenocorticoids as modulators of immune function in health and disease: neural, endocrine and immune interactions', Brain Research Reviews, vol. 23, no. 1, pp. 79-133.
+
+McIntyre, LM, Lopiano, KK, Morse, AM, Amin, V, Oberg, AL, Young, LJ & Nuzhdin, SV 2011, 'RNA-seq: technical variability and sampling', BMC Genomics, vol. 12, no. 1, p. 293.
+
+McIntyre, LM, Lopiano, KK, Morse, AM, Amin, V, Oberg, AL, Young, LJ & Nuzhdin, SV 2011, 'RNA-seq: technical variability and sampling', BMC Genomics, vol. 12, no. 1, p. 293.
+
+Menon, R, Peltier, MR, Eckardt, J & Fortunato, SJ 2009, 'Diversity in cytokine response to bacteria associated with preterm birth by fetal membranes', American Journal of Obstetrics & Gynecology, vol. 201, no. 3, pp. 306.e301-306.e306.
+
+Milligan, CE, Cunningham, TJ & Levitt, P 1991, 'Differential immunochemical markers reveal the normal distribution of brain macrophages and microglia in the developing rat brain', Journal of Comparative Neurology, vol. 314, no. 1, pp. 125-135.
+
+Mistry, M, Piper, M, Liu, J & Khetani, R 2021, 'HBC Taining', hbctraining/DGE_workshop_salmon_online: Differential Gene Expression Workshop Lessons from HCBC, Zenodo, viewed May 24, <https://doi.org/10.5281/zenodo.4783481>.
+
+Mogensen, TH, Berg, RS, Paludan, SR & Østergaard, L 2008, 'Mechanisms of Dexamethasone-Mediated Inhibition of Toll-Like Receptor Signaling Induced by <i>Neisseria meningitidis</i> and <i>Streptococcus pneumoniae</i>', Infection and Immunity, vol. 76, no. 1, pp. 189-197.
+
+Molania, R, Foroutan, M, Gagnon-Bartsch, JA, Gandolfo, LC, Jain, A, Sinha, A, Olshansky, G, Dobrovic, A, Papenfuss, AT & Speed, TP 2023, 'Removing unwanted variation from large-scale RNA sequencing data with PRPS', Nature Biotechnology, vol. 41, no. 1, pp. 82-95.
+
+Monier, A, Evrard, P, Gressens, P & Verney, C 2006, 'Distribution and differentiation of microglia in the human encephalon during the first two trimesters of gestation', Journal of Comparative Neurology, vol. 499, no. 4, pp. 565-582.
+
+Monier, A, Evrard, P, Gressens, P & Verney, C 2006, 'Distribution and differentiation of microglia in the human encephalon during the first two trimesters of gestation', Journal of Comparative Neurology, vol. 499, no. 4, pp. 565-582.
+
+Mooney, M, Bond, J, Monks, N, Eugster, E, Cherba, D, Berlinski, P, Kamerling, S, Marotti, K, Simpson, H, Rusk, T, Tembe, W, Legendre, C, Benson, H, Liang, W & Webb, CP 2013, 'Comparative RNA-Seq and Microarray Analysis of Gene Expression Changes in B-Cell Lymphomas of Canis familiaris', PLOS ONE, vol. 8, no. 4, p. e61088.
+
+Morris, BL, Lawrence, AR, Chilton, P, Adams, B, Calow, RC & Klinck, BA 2003, 'Groundwater and its susceptibility to degradation: a global assessment of the problem and options for management', vol.
+
+Mortazavi, A, Williams, BA, McCue, K, Schaeffer, L & Wold, B 2008, 'Mapping and quantifying mammalian transcriptomes by RNA-Seq', Nature Methods, vol. 5, no. 7, pp. 621-628.
+
+Mubeen, S, Hoyt, CT, Gemünd, A, Hofmann-Apitius, M, Fröhlich, H & Domingo-Fernández, D 2019, 'The Impact of Pathway Database Choice on Statistical Enrichment Analysis and Predictive Modeling', Frontiers in Genetics, vol. 10.
+
+Muratcioglu, S, Presman, Diego M, Pooley, John R, Grøntved, L, Hager, Gordon L, Nussinov, R, Keskin, O & Gursoy, A 2015, 'Structural Modeling of GR Interactions with the SWI/SNF Chromatin Remodeling Complex and C/EBP', Biophysical Journal, vol. 109, no. 6, pp. 1227-1239.
+
+Nadeau, HCG, Subramaniam, A & Andrews, WW 2016, 'Infection and preterm birth', Seminars in Fetal and Neonatal Medicine, vol. 21, no. 2, pp. 100-105.
+
+Nadeau, HCG, Subramaniam, A & Andrews, WW 2016, 'Infection and preterm birth', Seminars in Fetal and Neonatal Medicine, vol. 21, no. 2, pp. 100-105.
+
+Nagalakshmi, U, Wang, Z, Waern, K, Shou, C, Raha, D, Gerstein, M & Snyder, M 2008, 'The Transcriptional Landscape of the Yeast Genome Defined by RNA Sequencing', Science, vol. 320, no. 5881, pp. 1344-1349.
+
+Ndoja, A, Reja, R, Lee, S-H, Webster, JD, Ngu, H, Rose, CM, Kirkpatrick, DS, Modrusan, Z, Chen, Y-JJ, Dugger, DL, Gandham, V, Xie, L, Newton, K & Dixit, VM 2020, 'Ubiquitin Ligase COP1 Suppresses Neuroinflammation by Degrading c/EBP&#x3b2; in Microglia', Cell, vol. 182, no. 5, pp. 1156-1169.e1112.
+
+Ng, SSM, Li, A, Pavlakis, GN, Ozato, K & Kino, T 2013, 'Viral Infection Increases Glucocorticoid-Induced Interleukin-10 Production through ERK-Mediated Phosphorylation of the Glucocorticoid Receptor in Dendritic Cells: Potential Clinical Implications', PLOS ONE, vol. 8, no. 5, p. e63587.
+
+Oakley, RH & Cidlowski, JA 2011, 'Cellular Processing of the Glucocorticoid Receptor Gene and Protein: New Mechanisms for Generating Tissue-specific Actions of Glucocorticoids*', Journal of Biological Chemistry, vol. 286, no. 5, pp. 3177-3184.
+
+Oakley, RH & Cidlowski, JA 2013, 'The biology of the glucocorticoid receptor: New signaling mechanisms in health and disease', Journal of Allergy and Clinical Immunology, vol. 132, no. 5, pp. 1033-1044.
+
+Oberlander, TF, Weinberg, J, Papsdorf, M, Grunau, R, Misri, S & Devlin, AM 2008, 'Prenatal exposure to maternal depression, neonatal methylation of human glucocorticoid receptor gene (NR3C1) and infant cortisol stress responses', Epigenetics, vol. 3, no. 2, pp. 97-106.
+
+Okonechnikov, K, Conesa, A & García-Alcalde, F 2015, 'Qualimap 2: advanced multi-sample quality control for high-throughput sequencing data', Bioinformatics, vol. 32, no. 2, pp. 292-294.
+
+Oshlack, A & Wakefield, MJ 2009, 'Transcript length bias in RNA-seq data confounds systems biology', Biology Direct, vol. 4, no. 1, p. 14.
+
+Oshlack, A & Wakefield, MJ 2009, 'Transcript length bias in RNA-seq data confounds systems biology', Biology Direct, vol. 4, no. 1, p. 14.
+
+Padula, AM, Huang, H, Baer, RJ, August, LM, Jankowska, MM, Jellife-Pawlowski, LL, Sirota, M & Woodruff, TJ 2018, 'Environmental pollution and social factors as contributors to preterm birth in Fresno County', Environmental Health, vol. 17, no. 1, p. 70.
+
+Panda, S, Dohare, P, Jain, S, Parikh, N, Singla, P, Mehdizadeh, R, Klebe, DW, Kleinman, GM, Cheng, B & Ballabh, P 2018, 'Estrogen Treatment Reverses Prematurity-Induced Disruption in Cortical Interneuron Population', The Journal of Neuroscience, vol. 38, no. 34, pp. 7378-7391.
+
+Paolicelli, RC, Bolasco, G, Pagani, F, Maggi, L, Scianni, M, Panzanelli, P, Giustetto, M, Ferreira, TA, Guiducci, E, Dumas, L, Ragozzino, D & Gross, CT 2011, 'Synaptic Pruning by Microglia Is Necessary for Normal Brain Development', Science, vol. 333, no. 6048, pp. 1456-1458.
+
+Paolicelli, RC, Bolasco, G, Pagani, F, Maggi, L, Scianni, M, Panzanelli, P, Giustetto, M, Ferreira, TA, Guiducci, E, Dumas, L, Ragozzino, D & Gross, CT 2011, 'Synaptic Pruning by Microglia Is Necessary for Normal Brain Development', Science, vol. 333, no. 6048, pp. 1456-1458.
+
+Paolicelli, RC, Sierra, A, Stevens, B, Tremblay, M-E, Aguzzi, A, Ajami, B, Amit, I, Audinat, E, Bechmann, I, Bennett, M, Bennett, F, Bessis, A, Biber, K, Bilbo, S, Blurton-Jones, M, Boddeke, E, Brites, D, Brône, B, Brown, GC, Butovsky, O, Carson, MJ, Castellano, B, Colonna, M, Cowley, SA, Cunningham, C, Davalos, D, De Jager, PL, de Strooper, B, Denes, A, Eggen, BJL, Eyo, U, Galea, E, Garel, S, Ginhoux, F, Glass, CK, Gokce, O, Gomez-Nicola, D, González, B, Gordon, S, Graeber, MB, Greenhalgh, AD, Gressens, P, Greter, M, Gutmann, DH, Haass, C, Heneka, MT, Heppner, FL, Hong, S, Hume, DA, Jung, S, Kettenmann, H, Kipnis, J, Koyama, R, Lemke, G, Lynch, M, Majewska, A, Malcangio, M, Malm, T, Mancuso, R, Masuda, T, Matteoli, M, McColl, BW, Miron, VE, Molofsky, AV, Monje, M, Mracsko, E, Nadjar, A, Neher, JJ, Neniskyte, U, Neumann, H, Noda, M, Peng, B, Peri, F, Perry, VH, Popovich, PG, Pridans, C, Priller, J, Prinz, M, Ragozzino, D, Ransohoff, RM, Salter, MW, Schaefer, A, Schafer, DP, Schwartz, M, Simons, M, Smith, CJ, Streit, WJ, Tay, TL, Tsai, L-H, Verkhratsky, A, von Bernhardi, R, Wake, H, Wittamer, V, Wolf, SA, Wu, L-J & Wyss-Coray, T 2022, 'Microglia states and nomenclature: A field at its crossroads', Neuron (Cambridge, Mass.), vol. 110, no. 21, pp. 3458-3483.
+
+Park, C, Li, S, Cha, E & Schindler, C 2000, 'Immune Response in Stat2 Knockout Mice', Immunity, vol. 13, no. 6, pp. 795-804.
+
+Pasciuto, E, Burton, OT, Roca, CP, Lagou, V, Rajan, WD, Theys, T, Mancuso, R, Tito, RY, Kouser, L, Callaerts-Vegh, Z, de la Fuente, AG, Prezzemolo, T, Mascali, LG, Brajic, A, Whyte, CE, Yshii, L, Martinez-Muriana, A, Naughton, M, Young, A, Moudra, A, Lemaitre, P, Poovathingal, S, Raes, J, De Strooper, B, Fitzgerald, DC, Dooley, J & Liston, A 2020, 'Microglia Require CD4&#xa0;T Cells to Complete the Fetal-to-Adult Transition', Cell, vol. 182, no. 3, pp. 625-640.e624.
+
+Patro, R, Duggal, G, Love, MI, Irizarry, RA & Kingsford, C 2017, 'Salmon provides fast and bias-aware quantification of transcript expression', Nature Methods, vol. 14, no. 4, pp. 417-419.
+
+Patro, R, Duggal, G, Love, MI, Irizarry, RA & Kingsford, C 2017, 'Salmon provides fast and bias-aware quantification of transcript expression', Nature Methods, vol. 14, no. 4, pp. 417-419.
+
+Pérez-Capote, K, Saura, J, Serratosa, J & Solà, C 2006, 'Expression of C/EBPα and C/EBPβ in glial cells in vitro after inducing glial activation by different stimuli', Neuroscience Letters, vol. 410, no. 1, pp. 25-30.
+
+Perry, VH, Nicoll, JAR & Holmes, C 2010, 'Microglia in neurodegenerative disease', Nature Reviews Neurology, vol. 6, no. 4, pp. 193-201.
+
+Perry, VH, Nicoll, JAR & Holmes, C 2010, 'Microglia in neurodegenerative disease', Nature Reviews Neurology, vol. 6, no. 4, pp. 193-201.
+
+Petta, I, Dejager, L, Ballegeer, M, Lievens, S, Tavernier, J, Bosscher, KD & Libert, C 2016, 'The Interactome of the Glucocorticoid Receptor and Its Influence on the Actions of Glucocorticoids in Combatting Inflammatory and Infectious Diseases', Microbiology and Molecular Biology Reviews, vol. 80, no. 2, pp. 495-522.
+
+Phipson, B, Zappia, L & Oshlack, A 2017, 'Gene length and detection bias in single cell RNA sequencing protocols [version 1; peer review: 4 approved]', F1000Research, vol. 6, no. 595.
+
+Picard, D, Khursheed, B, Garabedian, MJ, Fortin, MG, Lindquist, S & Yamamoto, KR 1990, 'Reduced levels of hsp90 compromise steroid receptor action in vivo', Nature, vol. 348, no. 6297, pp. 166-168.
+
+Picetti, R, Deeney, M, Pastorino, S, Miller, MR, Shah, A, Leon, DA, Dangour, AD & Green, R 2022, 'Nitrate and nitrite contamination in drinking water and cancer risk: A systematic review with meta-analysis', Environmental Research, vol. 210, p. 112988.
+
+Porpora, MG, Piacenti, I, Scaramuzzino, S, Masciullo, L, Rech, F & Benedetti Panici, P 2019, 'Environmental Contaminants Exposure and Preterm Birth: A Systematic Review', Toxics, vol. 7, no. 1.
+
+Poulsen, R, Cedergreen, N, Hayes, T & Hansen, M 2018, 'Nitrate: an environmental endocrine disruptor? A review of evidence and research needs', Environmental science & technology, vol. 52, no. 7, pp. 3869-3887.
+
+Prinz, M, Priller, J, Sisodia, SS & Ransohoff, RM 2011, 'Heterogeneity of CNS myeloid cells and their roles in neurodegeneration', Nature Neuroscience, vol. 14, no. 10, pp. 1227-1235.
+
+Pulido-Salgado, M, Vidal-Taboada, JM, Garcia Diaz-Barriga, G, Serratosa, J, Valente, T, Castillo, P, Matalonga, J, Straccia, M, Canals, JM, Valledor, A, Solà, C & Saura, J 2017, 'Myeloid C/EBPβ deficiency reshapes microglial gene expression and is protective in experimental autoimmune encephalomyelitis', Journal of Neuroinflammation, vol. 14, no. 1, p. 54.
+
+Pulido-Salgado, M, Vidal-Taboada, JM & Saura, J 2015, 'C/EBPβ and C/EBPδ transcription factors: Basic biology and roles in the CNS', Progress in Neurobiology, vol. 132, pp. 1-33.
+
+Qian, Z, Liang, S, Yang, S, Trevathan, E, Huang, Z, Yang, R, Wang, J, Hu, K, Zhang, Y, Vaughn, M, Shen, L, Liu, W, Li, P, Ward, P, Yang, L, Zhang, W, Chen, W, Dong, G, Zheng, T, Xu, S & Zhang, B 2016, 'Ambient air pollution and preterm birth: A prospective birth cohort study in Wuhan, China', International Journal of Hygiene and Environmental Health, vol. 219, no. 2, pp. 195-203.
+
+Ranaivo, HR, Patel, F & Wainwright, MS 2010, 'Albumin activates the canonical TGF receptor–smad signaling pathway but this is not required for activation of astrocytes', Experimental Neurology, vol. 226, no. 2, pp. 310-319.
+
+Rapaport, F, Khanin, R, Liang, Y, Pirun, M, Krek, A, Zumbo, P, Mason, CE, Socci, ND & Betel, D 2013, 'Comprehensive evaluation of differential gene expression analysis methods for RNA-seq data', Genome Biology, vol. 14, no. 9, p. 3158.
+
+Reimand, J, Isserlin, R, Voisin, V, Kucera, M, Tannus-Lopes, C, Rostamianfar, A, Wadi, L, Meyer, M, Wong, J, Xu, C, Merico, D & Bader, GD 2019, 'Pathway enrichment analysis and visualization of omics data using g:Profiler, GSEA, Cytoscape and EnrichmentMap', Nature Protocols, vol. 14, no. 2, pp. 482-517.
+
+Resch, B & Resch, B 2013, Neonatal Bacterial Infection, IntechOpen, Rijeka, Croatia.
+
+Risso, D 2021, 'Normalization of Single-Cell RNA-Seq Data', in E Picardi (ed.), RNA Bioinformatics, Springer US, New York, NY, <https://doi.org/10.1007/978-1-0716-1307-8_17>, pp. 303-329.
+
+Risso, D, Ngai, J, Speed, TP & Dudoit, S 2014, 'Normalization of RNA-seq data using factor analysis of control genes or samples', Nature Biotechnology, vol. 32, no. 9, pp. 896-902.
+
+Risso, D, Schwartz, K, Sherlock, G & Dudoit, S 2011, 'GC-Content Normalization for RNA-Seq Data', BMC Bioinformatics, vol. 12, no. 1, p. 480.
+
+Risso, D, Schwartz, K, Sherlock, G & Dudoit, S 2011, 'GC-Content Normalization for RNA-Seq Data', BMC Bioinformatics, vol. 12, no. 1, p. 480.
+
+Ritchie, ME, Phipson, B, Wu, D, Hu, Y, Law, CW, Shi, W & Smyth, GK 2015, 'limma powers differential expression analyses for RNA-sequencing and microarray studies', Nucleic acids research, vol. 43, no. 7, pp. e47-e47.
+
+Robinson, MD, McCarthy, DJ & Smyth, GK 2009, 'edgeR: a Bioconductor package for differential expression analysis of digital gene expression data', Bioinformatics, vol. 26, no. 1, pp. 139-140.
+
+Robinson, MD & Oshlack, A 2010, 'A scaling normalization method for differential expression analysis of RNA-seq data', Genome Biology, vol. 11, no. 3, p. R25.
+
+Robinson, MD & Smyth, GK 2007, 'Moderated statistical tests for assessing differences in tag abundance', Bioinformatics, vol. 23, no. 21, pp. 2881-2887.
+
+Roos, AB, Barton, JL, Miller-Larsson, A, Dahlberg, B, Berg, T, Didon, L & Nord, M 2012, 'Lung epithelial-C/EBPβ contributes to LPS-induced inflammation and its suppression by formoterol', Biochemical and biophysical research communications, vol. 423, no. 1, pp. 134-139.
+
+Roos, AB & Nord, M 2012, 'The emerging role of C/EBPs in glucocorticoid signaling: lessons from the lung', Journal of Endocrinology, vol. 212, no. 3, pp. 291-305.
+
+Roos, AB & Nord, M 2012, 'The emerging role of C/EBPs in glucocorticoid signaling: lessons from the lung', Journal of Endocrinology, vol. 212, no. 3, pp. 291-305.
+
+Sacta, MA, Chinenov, Y & Rogatsky, I 2016, 'Glucocorticoid Signaling: An Update from a Genomic Perspective', Annual Review of Physiology, vol. 78, no. 1, pp. 155-180.
+
+Sahraeian, SME, Mohiyuddin, M, Sebra, R, Tilgner, H, Afshar, PT, Au, KF, Bani Asadi, N, Gerstein, MB, Wong, WH, Snyder, MP, Schadt, E & Lam, HYK 2017, 'Gaining comprehensive biological insight into the transcriptome by performing a broad-spectrum RNA-seq analysis', Nature Communications, vol. 8, no. 1, p. 59.
+
+Satoh, J-i, Kino, Y, Asahina, N, Takitani, M, Miyoshi, J, Ishida, T & Saito, Y 2016, 'TMEM119 marks a subset of microglia in the human brain', Neuropathology, vol. 36, no. 1, pp. 39-49.
+
+Schafer, DP & Stevens, B 2015, 'Microglia Function in Central Nervous System Development and Plasticity', Cold Spring Harbor perspectives in biology, vol. 7, no. 10, pp. a020545-a020545.
+
+Schullehner, J, Hansen, B, Thygesen, M, Pedersen, CB & Sigsgaard, T 2018, 'Nitrate in drinking water and colorectal cancer risk: A nationwide population‐based cohort study', International journal of cancer, vol. 143, no. 1, pp. 73-79.
+
+Schwendimann, L, Sivaprakasam, I, Buvaneshwari, S, Gurumurthy, GP, Mishra, S, Ruiz, L, Sekhar, M, Fleiss, B, Riotte, J, Mani, S & Gressens, P 2021, 'Agricultural groundwater with high nitrates and dissolved salts given to pregnant mice alters brain development in the offspring', Ecotoxicology and Environmental Safety, vol. 224, p. 112635.
+
+Senozan, N 1985, 'Methemoglobinemia: An illness caused by the ferric state', Journal of Chemical Education, vol. 62, no. 3, p. 181.
+
+Serpa, RO, Ferguson, L, Larson, C, Bailard, J, Cooke, S, Greco, T & Prins, ML 2021, 'Pathophysiology of Pediatric Traumatic Brain Injury', Frontiers in neurology, vol. 12.
+
+Sha, Y, Phan, JH & Wang, MD 'Effect of low-expression gene filtering on detection of differentially expressed genes in RNA-seq data', 25-29 Aug. 2015, pp. 6461-6464.
+
+Shabab, T, Khanabdali, R, Moghadamtousi, SZ, Kadir, HA & Mohan, G 2017, 'Neuroinflammation pathways: a general review', Int J Neurosci, vol. 127, no. 7, pp. 624-633.
+
+Shastri, A, Bonifati, DM & Kishore, U 2013, 'Innate Immunity and Neuroinflammation', Mediators of Inflammation, vol. 2013, p. 342931.
+
+Shastri, A, Bonifati, DM & Kishore, U 2013, 'Innate Immunity and Neuroinflammation', Mediators of Inflammation, vol. 2013, p. 342931.
+
+Shukla, S & Saxena, A 2018, 'Global Status of Nitrate Contamination in Groundwater: Its Occurrence, Health Impacts, and Mitigation Measures', in CM Hussain (ed.), Handbook of Environmental Materials Management, Springer International Publishing, Cham, <https://doi.org/10.1007/978-3-319-58538-3_20-1>, pp. 1-21.
+
+Simpson-Abelson, MR, Hernandez-Mir, G, Childs, EE, Cruz, JA, Poholek, AC, Chattopadhyay, A, Gaffen, SL & McGeachy, MJ 2017, 'CCAAT/Enhancer-binding protein β promotes pathogenesis of EAE', Cytokine, vol. 92, pp. 24-32.
+
+Sims, D, Sudbery, I, Ilott, NE, Heger, A & Ponting, CP 2014, 'Sequencing depth and coverage: key considerations in genomic analyses', Nature Reviews Genetics, vol. 15, no. 2, pp. 121-132.
+
+Smid, M, Coebergh van den Braak, RRJ, van de Werken, HJG, van Riet, J, van Galen, A, de Weerd, V, van der Vlugt-Daane, M, Bril, SI, Lalmahomed, ZS, Kloosterman, WP, Wilting, SM, Foekens, JA, Ijzermans, JNM, Coene, PPLO, Dekker, JWT, Zimmerman, DDE, Tetteroo, GWM, Vles, WJ, Vrijland, WW, Torenbeek, R, Kliffen, M, Carel Meijer, JH, vd Wurff, AA, Martens, JWM, Sieuwerts, AM & on behalf of the, Msg 2018, 'Gene length corrected trimmed mean of M-values (GeTMM) processing of RNA-seq data performs similarly in intersample analyses while improving intrasample comparisons', BMC Bioinformatics, vol. 19, no. 1, p. 236.
+
+Soneson, C & Delorenzi, M 2013, 'A comparison of methods for differential expression analysis of RNA-seq data', BMC Bioinformatics, vol. 14, no. 1, p. 91.
+
+Soneson, C, Love, M & Robinson, M 2015, 'Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences [version 1; peer review: 2 approved]', F1000Research, vol. 4, no. 1521.
+
+Soneson, C, Love, MI & Robinson, MD 2015, 'Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences', F1000Research, vol. 4, p. 1521, PubMed database, <http://europepmc.org/abstract/MED/26925227
+https://doi.org/10.12688/f1000research.7563.2
+https://europepmc.org/articles/PMC4712774
+https://europepmc.org/articles/PMC4712774?pdf=render>.
+
+Spittau, B, Dokalis, N & Prinz, M 2020, 'The Role of TGF&#x3b2; Signaling in Microglia Maturation and Activation', Trends in Immunology, vol. 41, no. 9, pp. 836-848.
+
+Srivastava, A, Malik, L, Sarkar, H, Zakeri, M, Almodaresi, F, Soneson, C, Love, MI, Kingsford, C & Patro, R 2020, 'Alignment and mapping methodology influence transcript abundance estimation', Genome Biology, vol. 21, no. 1, p. 239.
+
+Stahn, C & Buttgereit, F 2008, 'Genomic and nongenomic effects of glucocorticoids', Nature Clinical Practice Rheumatology, vol. 4, no. 10, pp. 525-533.
+
+Stark, R, Grzelak, M & Hadfield, J 2019, 'RNA sequencing: the teenage years', Nature Reviews Genetics, vol. 20, no. 11, pp. 631-656.
+
+Stayner, LT, Almberg, K, Jones, R, Graber, J, Pedersen, M & Turyk, M 2017, 'Atrazine and nitrate in drinking water and the risk of preterm delivery and low birth weight in four Midwestern states', Environmental Research, vol. 152, pp. 294-303.
+
+Stolp, HB, Ek, CJ, Johansson, PA, Dziegielewska, KM, Potter, AM, Habgood, MD & Saunders, NR 2007, 'Effect of minocycline on inflammation-induced damage to the blood–brain barrier and white matter during development', European Journal of Neuroscience, vol. 26, no. 12, pp. 3465-3474.
+
+Stolp, HB, Ek, CJ, Johansson, PA, Dziegielewska, KM, Potter, AM, Habgood, MD & Saunders, NR 2007, 'Effect of minocycline on inflammation-induced damage to the blood–brain barrier and white matter during development', European Journal of Neuroscience, vol. 26, no. 12, pp. 3465-3474.
+
+Storey, JD, Taylor, JE & Siegmund, D 2003, 'Strong Control, Conservative Point Estimation and Simultaneous Conservative Consistency of False Discovery Rates: A Unified Approach', Journal of the Royal Statistical Society Series B: Statistical Methodology, vol. 66, no. 1, pp. 187-205.
+
+Straccia, M, Gresa-Arribas, N, Dentesano, G, Ejarque-Ortiz, A, Tusell, JM, Serratosa, J, Solà, C & Saura, J 2011, 'Pro-inflammatory gene expression and neurotoxic effects of activated microglia are attenuated by absence of CCAAT/enhancer binding protein β', Journal of Neuroinflammation, vol. 8, no. 1, p. 156.
+
+Strunk, TD, Inder, TMD, Wang, XP, Burgner, DP, Mallard, CP & Levy, OP 2014, 'Infection-induced inflammation and cerebral injury in preterm infants', The Lancet infectious diseases, vol. 14, no. 8, pp. 751-762.
+
+Strunk, TD, Inder, TMD, Wang, XP, Burgner, DP, Mallard, CP & Levy, OP 2014, 'Infection-induced inflammation and cerebral injury in preterm infants', The Lancet infectious diseases, vol. 14, no. 8, pp. 751-762.
+
+Stupnikov, A, McInerney, CE, Savage, KI, McIntosh, SA, Emmert-Streib, F, Kennedy, R, Salto-Tellez, M, Prise, KM & McArt, DG 2021, 'Robustness of differential gene expression analysis of RNA-seq', Computational and Structural Biotechnology Journal, vol. 19, pp. 3470-3481.
+
+Subramanian, A, Tamayo, P, Mootha, VK, Mukherjee, S, Ebert, BL, Gillette, MA, Paulovich, A, Pomeroy, SL, Golub, TR, Lander, ES & Mesirov, JP 2005, 'Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles', Proceedings of the National Academy of Sciences, vol. 102, no. 43, pp. 15545-15550.
+
+Sun, Q, Hao, Q & Prasanth, KV 2018, 'Nuclear Long Noncoding RNAs: Key Regulators of Gene Expression', Trends in Genetics, vol. 34, no. 2, pp. 142-157.
+
+Sun, S, Xu, L, Zou, Q & Wang, G 2020, 'BP4RNAseq: a babysitter package for retrospective and newly generated RNA-seq data analyses using both alignment-based and alignment-free quantification method', Bioinformatics, vol. 37, no. 9, pp. 1319-1321.
+
+Supek, F, Bošnjak, M, Škunca, N & Šmuc, T 2011, 'REVIGO Summarizes and Visualizes Long Lists of Gene Ontology Terms', PLOS ONE, vol. 6, no. 7, p. e21800.
+
+Swinnen, N, Smolders, S, Avila, A, Notelaers, K, Paesen, R, Ameloot, M, Brône, B, Legendre, P & Rigo, J-M 2013, 'Complex invasion pattern of the cerebral cortex bymicroglial cells during development of the mouse embryo', Glia, vol. 61, no. 2, pp. 150-163.
+
+Tahraoui, SL, Marret, S, Bodénant, C, Leroux, P, Dommergues, MA, Evrard, P & Gressens, P 2001, 'Central Role of Microglia in Neonatal Excitotoxic Lesions of the Murine Periventricular White Matter', Brain Pathology, vol. 11, no. 1, pp. 56-71.
+
+Tan, Y-L, Yuan, Y & Tian, L 2020, 'Microglial regional heterogeneity and its role in the brain', Molecular Psychiatry, vol. 25, no. 2, pp. 351-367.
+
+Tarazona, S, Furió-Tarí, P, Turrà, D, Pietro, AD, Nueda, MJ, Ferrer, A & Conesa, A 2015, 'Data quality aware analysis of differential expression in RNA-seq with NOISeq R/Bioc package', Nucleic acids research, vol. 43, no. 21, pp. e140-e140.
+
+Tarazona, S, Furió-Tarí, P, Turrà, D, Pietro, AD, Nueda, MJ, Ferrer, A & Conesa, A 2015, 'Data quality aware analysis of differential expression in RNA-seq with NOISeq R/Bioc package', Nucleic acids research, vol. 43, no. 21, pp. e140-e140.
+
+Teichman, G, Cohen, D, Ganon, O, Dunsky, N, Shani, S, Gingold, H & Rechavi, O 2023, 'RNAlysis: analyze your RNA sequencing data without writing a single line of code', BMC Biology, vol. 21, no. 1, p. 74.
+
+Thion, MS & Garel, S 2017, 'On place and time: microglia in embryonic and perinatal brain development', Current Opinion in Neurobiology, vol. 47, pp. 121-130.
+
+Thion, MS, Ginhoux, F & Garel, S 2018, 'Microglia and early brain development: An intimate journey', Science, vol. 362, no. 6411, pp. 185-189.
+
+Thion, MS, Low, D, Silvin, A, Chen, J, Grisel, P, Schulte-Schrepping, J, Blecher, R, Ulas, T, Squarzoni, P, Hoeffel, G, Coulpier, F, Siopi, E, David, FS, Scholz, C, Shihui, F, Lum, J, Amoyo, AA, Larbi, A, Poidinger, M, Buttgereit, A, Lledo, P-M, Greter, M, Chan, JKY, Amit, I, Beyer, M, Schultze, JL, Schlitzer, A, Pettersson, S, Ginhoux, F & Garel, S 2018, 'Microbiome Influences Prenatal and Adult Microglia in a Sex-Specific Manner', Cell, vol. 172, no. 3, pp. 500-516.e516.
+
+Thompson, DJ, Gezon, HM, Rogers, KD, Yee, RB & Hatch, TF 1966, 'EXCESS RISK OF STAPHYLOCOCCAL INFECTION AND DISEASE IN NEWBORN MALES1', American Journal of Epidemiology, vol. 84, no. 2, pp. 314-328.
+
+Thorvaldsdóttir, H, Robinson, JT & Mesirov, JP 2013, 'Integrative Genomics Viewer (IGV): high-performance genomics data visualization and exploration', Briefings in Bioinformatics, vol. 14, no. 2, pp. 178-192.
+
+Timmermans, S, Souffriau, J & Libert, C 2019, 'A General Introduction to Glucocorticoid Biology', Frontiers in Immunology, vol. 10.
+
+Trapnell, C, Williams, BA, Pertea, G, Mortazavi, A, Kwan, G, van Baren, MJ, Salzberg, SL, Wold, BJ & Pachter, L 2010, 'Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation', Nature Biotechnology, vol. 28, no. 5, pp. 511-515.
+
+Tremblay, M-È, Lowery, RL & Majewska, AK 2010, 'Microglial Interactions with Synapses Are Modulated by Visual Experience', PLOS Biology, vol. 8, no. 11, p. e1000527.
+
+Uhlenhaut, NH, Barish, Grant D, Yu, Ruth T, Downes, M, Karunasiri, M, Liddle, C, Schwalie, P, Hübner, N & Evans, Ronald M 2013, 'Insights into Negative Regulation by the Glucocorticoid Receptor from Genome-wide Profiling of Inflammatory Cistromes', Molecular Cell, vol. 49, no. 1, pp. 158-171.
+
+Vaes, JEG, Brandt, MJV, Wanders, N, Benders, MJNL, Theije, CGM, Gressens, P & Nijboer, CH 2021, 'The impact of trophic and immunomodulatory factors on oligodendrocyte maturation: Potential treatments for encephalopathy of prematurity', Glia, vol. 69, no. 6, pp. 1311-1340.
+
+Van den Berge, K, Chou, H-J, Roux de Bézieux, H, Street, K, Risso, D, Ngai, J & Dudoit, S 2022, 'Normalization benchmark of ATAC-seq datasets shows the importance of accounting for GC-content effects', Cell Reports Methods, vol. 2, no. 11, p. 100321.
+
+van Lunzen, J & Altfeld, M 2014, 'Sex Differences in Infectious Diseases–Common but Neglected', The Journal of Infectious Diseases, vol. 209, no. suppl_3, pp. S79-S80.
+
+Van Steenwinckel, J, Schang, A-L, Krishnan, ML, Degos, V, Delahaye-Duriez, A, Bokobza, C, Csaba, Z, Verdonk, F, Montané, A, Sigaut, S, Hennebert, O, Lebon, S, Schwendimann, L, Le Charpentier, T, Hassan-Abdi, R, Ball, G, Aljabar, P, Saxena, A, Holloway, RK, Birchmeier, W, Baud, O, Rowitch, D, Miron, V, Chretien, F, Leconte, C, Besson, VC, Petretto, EG, Edwards, AD, Hagberg, H, Soussi-Yanicostas, N, Fleiss, B & Gressens, P 2019, 'Decreased microglial Wnt/β-catenin signalling drives microglial pro-inflammatory activation in the developing brain', Brain, vol. 142, no. 12, pp. 3806-3833.
+
+van Wageningen, TA, Vlaar, E, Kooij, G, Jongenelen, CAM, Geurts, JJG & van Dam, A-M 2019, 'Regulation of microglial TMEM119 and P2RY12 immunoreactivity in multiple sclerosis white and grey matter lesions is dependent on their inflammatory environment', Acta Neuropathologica Communications, vol. 7, no. 1, p. 206.
+
+Vandevyver, S, Dejager, L, Tuckermann, J & Libert, C 2013, 'New Insights into the Anti-inflammatory Mechanisms of Glucocorticoids: An Emerging Role for Glucocorticoid-Receptor-Mediated Transactivation', Endocrinology, vol. 154, no. 3, pp. 993-1007.
+
+Verma, S, Nakaoke, R, Dohgu, S & Banks, WA 2006, 'Release of cytokines by brain endothelial cells: A polarized response to lipopolysaccharide', Brain, Behavior, and Immunity, vol. 20, no. 5, pp. 449-455.
+
+Verney, C, Monier, A, Fallet-Bianco, C & Gressens, P 2010, 'Early microglial colonization of the human forebrain and possible involvement in periventricular white-matter injury of preterm infants', Journal of Anatomy, vol. 217, no. 4, pp. 436-448.
+
+Verney, C, Pogledic, I, Biran, V, Adle-Biassette, H, Fallet-Bianco, C & Gressens, P 2012, 'Microglial Reaction in Axonal Crossroads Is a Hallmark of Noncystic Periventricular White Matter Injury in Very Preterm Infants', Journal of Neuropathology & Experimental Neurology, vol. 71, no. 3, pp. 251-264.
+
+Volpe, JJ 2009, 'The Encephalopathy of Prematurity—Brain Injury and Impaired Brain Development Inextricably Intertwined', Seminars in Pediatric Neurology, vol. 16, no. 4, pp. 167-178.
+
+Wagner, GP, Kin, K & Lynch, VJ 2012, 'Measurement of mRNA abundance using RNA-seq data: RPKM measure is inconsistent among samples', Theory in Biosciences, vol. 131, no. 4, pp. 281-285.
+
+Wagner, GP, Kin, K & Lynch, VJ 2012, 'Measurement of mRNA abundance using RNA-seq data: RPKM measure is inconsistent among samples', Theory in Biosciences, vol. 131, no. 4, pp. 281-285.
+
+Wang, D, Cheng, L, Wang, M, Wu, R, Li, P, Li, B, Zhang, Y, Gu, Y, Zhao, W, Wang, C & Guo, Z 2011, 'Extensive increase of microarray signals in cancers calls for novel normalization assumptions', Computational Biology and Chemistry, vol. 35, no. 3, pp. 126-130.
+
+Wang, X & Cairns, MJ 2013, 'Gene set enrichment analysis of RNA-Seq data: integrating differential expression and splicing', BMC Bioinformatics, vol. 14, no. 5, p. S16.
+
+Wang, Y & LêCao, K-A 2019, 'Managing batch effects in microbiome data', Briefings in Bioinformatics, vol. 21, no. 6, pp. 1954-1970.
+
+Wang, Z, Gerstein, M & Snyder, M 2009, 'RNA-Seq: a revolutionary tool for transcriptomics', Nature Reviews Genetics, vol. 10, no. 1, pp. 57-63.
+
+Wang, Z-H, Gong, K, Liu, X, Zhang, Z, Sun, X, Wei, ZZ, Yu, SP, Manfredsson, FP, Sandoval, IM, Johnson, PF, Jia, J, Wang, J-Z & Ye, K 2018, 'C/EBPβ regulates delta-secretase expression and mediates pathogenesis in mouse models of Alzheimer’s disease', Nature Communications, vol. 9, no. 1, p. 1784.
+
+Weikum, ER, Knuesel, MT, Ortlund, EA & Yamamoto, KR 2017, 'Glucocorticoid receptor control of transcription: precision and plasticity via allostery', Nature Reviews Molecular Cell Biology, vol. 18, no. 3, pp. 159-174.
+
+Wijesooriya, K, Jadaan, SA, Perera, KL, Kaur, T & Ziemann, M 2022, 'Urgent need for consistent standards in functional enrichment analysis', PLOS Computational Biology, vol. 18, no. 3, p. e1009935.
+
+Wilhelm, BT & Landry, J-R 2009, 'RNA-Seq—quantitative measurement of expression through massively parallel RNA-sequencing', Methods, vol. 48, no. 3, pp. 249-257.
+
+Wilhelm, BT, Marguerat, S, Watt, S, Schubert, F, Wood, V, Goodhead, I, Penkett, CJ, Rogers, J & Bähler, J 2008, 'Dynamic repertoire of a eukaryotic transcriptome surveyed at single-nucleotide resolution', Nature, vol. 453, no. 7199, pp. 1239-1243.
+
+Wingender, E, Karas, H & Knuppel, R 1997, 'TRANSFAC database as a bridge between sequence data libraries and biological function', Pacific Symposium on Biocomputing, vol., pp. 477-485.
+
+Wu, PY, Phan, JH, Zhou, F & Wang, MD 'Evaluation of normalization methods for RNA-Seq gene expression estimation', 12-15 Nov. 2011, pp. 50-57.
+
+Wu, T, Hu, E, Xu, S, Chen, M, Guo, P, Dai, Z, Feng, T, Zhou, L, Tang, W, Zhan, L, Fu, X, Liu, S, Bo, X & Yu, G 2021, 'clusterProfiler 4.0: A universal enrichment tool for interpreting omics data', The Innovation, vol. 2, no. 3.
+
+Wu, Y, Li, S, Zhao, Q, Wen, B, Gasparrini, A, Tong, S, Overcenco, A, Urban, A, Schneider, A, Entezari, A, Vicedo-Cabrera, AM, Zanobetti, A, Analitis, A, Zeka, A, Tobias, A, Nunes, B, Alahmad, B, Armstrong, B, Forsberg, B, Pan, S-C, Íñiguez, C, Ameling, C, De la Cruz Valencia, C, Åström, C, Houthuijs, D, Van Dung, D, Royé, D, Indermitte, E, Lavigne, E, Mayvaneh, F, Acquaotta, F, de'Donato, F, Rao, S, Sera, F, Carrasco-Escobar, G, Kan, H, Orru, H, Kim, H, Holobaca, I-H, Kyselý, J, Madureira, J, Schwartz, J, Jaakkola, JJK, Katsouyanni, K, Hurtado Diaz, M, Ragettli, MS, Hashizume, M, Pascal, M, de Sousa Zanotti Stagliorio Coélho, M, Ortega, NV, Ryti, N, Scovronick, N, Michelozzi, P, Correa, PM, Goodman, P, Nascimento Saldiva, PH, Abrutzky, R, Osorio, S, Dang, TN, Colistro, V, Huber, V, Lee, W, Seposo, X, Honda, Y, Guo, YL, Bell, ML & Guo, Y 2022, 'Global, regional, and national burden of mortality associated with short-term temperature variability from 2000–19: a three-stage modelling study', The Lancet. Planetary health, vol. 6, no. 5, pp. e410-e421.
+
+Yamamoto, S & Premji, S 2017, 'The role of body, mind, and environment in preterm birth: mind the gap', Journal of Midwifery & Women's Health, vol. 62, no. 6, pp. 696-705.
+
+Yan, C, Wu, M, Cao, J, Tang, H, Zhu, M, Johnson, PF & Gao, H 2012, 'Critical Role for CCAAT/Enhancer-Binding Protein β in Immune Complex-Induced Acute Lung Injury', The Journal of Immunology, vol. 189, no. 3, pp. 1480-1490.
+
+Yang, Z, Zhu, X, Guo, C & Sun, K 2009, 'Stimulation of 11β-HSD1 expression by IL-1β via a C/EBP binding site in human fetal lung fibroblasts', Endocrine, vol. 36, no. 3, pp. 404-411.
+
+Yi, L, Pimentel, H, Bray, NL & Pachter, L 2018, 'Gene-level differential analysis at transcript-level resolution', Genome Biology, vol. 19, no. 1, p. 53.
+
+Young, MD, Wakefield, MJ, Smyth, GK & Oshlack, A 2010, 'Gene ontology analysis for RNA-seq: accounting for selection bias', Genome Biology, vol. 11, no. 2, p. R14.
+
+Yuste, JE, Tarragon, E, Campuzano, CM & Ros-Bernal, F 2015, 'Implications of glial nitric oxide in neurodegenerative diseases', Frontiers in Cellular Neuroscience, vol. 9.
+
+Zektser, IS & Everett, LG 2004, Groundwater resources of the world and their use, PHI.
+
+Zhang, Y, Parmigiani, G & Johnson, WE 2020, 'ComBat-seq: batch effect adjustment for RNA-seq count data', NAR Genomics and Bioinformatics, vol. 2, no. 3.
+
+Zhang, Y, Parmigiani, G & Johnson, WE 2020, 'ComBat-seq: batch effect adjustment for RNA-seq count data', NAR Genomics and Bioinformatics, vol. 2, no. 3, p. lqaa078.
+
+Zhao, S, Fung-Leung, W-P, Bittner, A, Ngo, K & Liu, X 2014, 'Comparison of RNA-Seq and Microarray in Transcriptome Profiling of Activated T Cells', PLOS ONE, vol. 9, no. 1, p. e78644.
+
+Zhao, S, Ye, Z & Stanton, R 2020, 'Misuse of RPKM or TPM normalization when comparing across samples and sequencing protocols', Rna, vol. 26, no. 8, pp. 903-909.
+
+Zhao, S-c, Ma, L-s, Chu, Z-h, Xu, H, Wu, W-q & Liu, F 2017, 'Regulation of microglial activation in stroke', Acta Pharmacologica Sinica, vol. 38, no. 4, pp. 445-458.
+
+Zhao, Y, Li, M-C, Konaté, MM, Chen, L, Das, B, Karlovich, C, Williams, PM, Evrard, YA, Doroshow, JH & McShane, LM 2021, 'TPM, FPKM, or Normalized Counts? A Comparative Study of Quantification Measures for the Analysis of RNA-seq Data from the NCI Patient-Derived Models Repository', Journal of Translational Medicine, vol. 19, no. 1, p. 269.
+
+Zhao, Y, Wong, L & Goh, WWB 2020, 'How to do quantile normalization correctly for gene expression data analyses', Scientific Reports, vol. 10, no. 1, p. 15534.
+
+Zhou, Y, Zhou, B, Pache, L, Chang, M, Khodabakhshi, AH, Tanaseichuk, O, Benner, C & Chanda, SK 2019, 'Metascape provides a biologist-oriented resource for the analysis of systems-level datasets', Nature Communications, vol. 10, no. 1, p. 1523.
+
+Zwiener, I, Frisch, B & Binder, H 2014, 'Transforming RNA-Seq Data to Improve the Performance of Prognostic Gene Signatures', PLOS ONE, vol. 9, no. 1, p. e85150.
+
+Zyprych-Walczak, J, Szabelska, A, Handschuh, L, Górczak, K, Klamecka, K, Figlerowicz, M & Siatkowski, I 2015, 'The impact of normalization methods on RNA-Seq data analysis', BioMed research international, vol. 2015.
+
